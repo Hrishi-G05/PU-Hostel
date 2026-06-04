@@ -1,0 +1,4655 @@
+/* Media Query: @media only screen and (min-width: 767px) */
+@media only screen and (min-width: 767px) {
+	#second-sec .slider-card-wrap.social-responsive-d-grid {
+		display: grid !important;
+	}
+	
+	/* 	ayurved - health sector skills programs */
+	
+		.postid-34078 .img-content.img-content-4,
+		.postid-34073 .img-content.img-content-4,
+		.postid-34082 .img-content.img-content-4,
+		.postid-34088 .img-content.img-content-4,
+		.postid-34085 .img-content.img-content-4 {
+		margin-top: 2rem !important;
+	}
+}
+
+/* Media Query: @media only screen and (min-width: 768px) */
+@media only screen and (min-width: 768px) {
+
+	.research-project-card {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	
+	.enquiry-btn-mobile {
+		display: none;
+	}
+	
+	.popup-overlay,
+		.close-form {
+		display: none !important;
+	}
+
+	.committee-block-img {
+		height: 350px;
+	}
+	
+	.page-id-24400 h5.font-head-lg {
+		font-size: 42px;
+	}
+	
+	.page-id-24400 .dual-study-image {
+		width: 100%;
+		height: 550px;
+		object-fit: cover;
+		object-position: top center;
+	}
+	
+	.page-id-24400 .study-layout .study-details {
+		max-width: 533px;
+		-ms-flex: 1 1 auto;
+		flex: 1 1 auto;
+	}
+	
+	.page-id-24400 .study-layout .study-image {
+		position: relative;
+		min-width: 625px;
+		max-width: 625px;
+		border-radius: 1rem;
+		overflow: hidden;
+		transition: all .4s;
+		max-height: max-content;
+	}
+}
+
+/* Media Query: @media only screen and (min-width : 991px) */
+@media only screen and (min-width : 991px) {
+	.banner-sec .banner-title {
+		padding-top: 3rem;
+	}
+	
+	.d-flex.justify-content-between.column-gap-12 {
+		align-items: center;
+	}
+	
+	.font-head-md.font-weight-400.pb-8.pb-md-12.font-color-white {
+		padding-bottom: 2rem !important;
+	}
+	
+	.explore-area.explore-area-bg-white {
+		pointer-events: none;
+		cursor: default;
+		text-decoration: none;
+	}
+	
+	.human-card-img-wrap.mt-52 {
+		width: 100%;
+		height: 400px;
+		/*         height: 100%; */
+	}
+	
+	.human-card-img-wrap.mt-52 img {
+		height: 100%;
+	}
+	
+	.explore-sec .explore-area {
+		--grid-columns: 4;
+	}
+	
+	.slide-sec-colored .slide-cards-wrapper .slider-card-wrap {
+		justify-content: normal;
+	}
+}
+
+/* Media Query: @media (min-width: 992px) */
+@media (min-width: 992px) {
+	.research-project-card {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	
+	.research-project-card .item {
+		width: 31%;
+		margin: 10px;
+	}
+	
+	.banner-sec {
+		min-height: var(--ap-banner-height);
+	}
+}
+
+/* Media Query: @media only screen and (min-width : 1224px) */
+@media only screen and (min-width : 1224px) {
+	.recognitions-sec .award-flip-card-grid {
+		display: grid !important;
+		grid-template-columns: repeat(4, 1fr) !important;
+		gap: 1.5rem !important;
+	}
+}
+
+/* Media Query: @media only screen and (min-width: 481px) and (max-width: 576px) */
+@media only screen and (min-width: 481px) and (max-width: 576px) {
+	/* pierc */
+	
+	.hilight-sec .scroll-cards .scroll-card-img {
+		overflow: visible !important;
+	}
+	
+	.page-id-5100 .news-cards .card-section .card-image {
+		height: auto;
+	}
+	
+	/* awards rankings ratings */
+	
+	
+		.flip-card-img {
+		width: 100% !important;
+		height: 200px !important;
+	}
+	
+	.flip-card-front,
+		.flip-card-back {
+		justify-content: space-around;
+	}
+	
+	.flip-card {
+		width: 90vw;
+		height: 300px !important;
+		margin-bottom: 1rem;
+	}
+	
+	/* camppus */
+	
+		.page-id-2316 .slider-card {
+		min-height: 100% !important;
+	}
+	
+	.page-id-2316 .slider-card-content-desc {
+		font-size: 1.3rem !important;
+	}
+	
+	/* life at pu */
+	
+	
+		.page-id-4067 .sub-title-wrapper.study-head p {
+		max-width: 100% !important;
+	}
+	
+	/* academic overview */
+	
+		.page-id-6633 .university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	/* research and development center */
+	
+		.page-id-9821 .sub-title-wrapper.study-head .sub-title-block {
+		display: block !important;
+	}
+	
+	.page-id-9821 .sub-title-wrapper.study-head .sub-title-desc {
+		max-width: 100% !important;
+	}
+	
+	#no-bg-with-card .count-wrap {
+		justify-items: normal !important;
+	}
+	
+	/* student welfare */
+	
+		.page-id-8022 .sub-title-wrapper.study-head p {
+		max-width: 100% !important;
+	}
+	
+	/* professor of practice */
+	
+		.page-id-2585 .tab-content {
+		padding: 0 !important;
+	}
+	
+	.page-id-2585 .professors-lists .list-img {
+		margin: auto !important;
+	}
+	
+	.page-id-2585 .professors-lists .list-img img {
+		padding: 7px;
+		border: 1px solid #241d63;
+		border-radius: 25px;
+	}
+	
+	/* 	professor of practice */
+		#block-tabContent-faculty_tabs_1 {
+		padding: 0 !important;
+	}
+	
+	.professors-tab-content h2.cmn-span-clr {
+		font-size: 2rem !important;
+	}
+	
+	.professors-lists .list-img {
+		margin: auto;
+	}
+	
+	.page-id-2687 section.online-resources-sec .explore-area .explore-box {
+		min-height: unset;
+		height: auto;
+		padding: 12px;
+		gap: 2rem;
+	}
+	
+	.explore-area .explore-box {
+		min-height: unset;
+		height: auto;
+		padding: 12px;
+		gap: 1.5rem;
+	}
+	
+	/* pu-talks */
+	
+		.page-id-6632 .sub-title-wrapper.study-head p {
+		max-width: 100% !important;
+	}
+	
+	/* admissions - diploma */
+	
+		.term-diploma.term-14 .detail-program.detail-program-center.cmn-spacing-tb {
+		padding-bottom: 3.5rem !important;
+	}
+	
+	.university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	/* admissions - bachelor programs */
+	
+	
+		section.program-studies .study-list .study-box img {
+		height: auto !important;
+	}
+	
+	/* doctoral program */
+	
+		.doctoral-tabs-wrapper,
+		.doctoral-tab-menu {
+		padding-block: 2.5rem !important;
+	}
+	
+	/* admissions */
+	
+		.page-id-2427 #block-tabContent {
+		padding: 10px !important;
+	}
+	
+	.page-id-2427 #pills-tabContent-west-zone {
+		padding: 10px !important;
+	}
+	
+	/* living at pu */
+		page-id-5364 .detail-program.detail-program-center .faculty-box>img {
+		height: auto !important;
+		width: 100% !important;
+	}
+	
+	.page-id-24400 .cmn-spacing-tb.cmn-bg-grey .brand-list .brand-img img {
+		max-height: 110px !important;
+		width: auto;
+	}
+	
+	.page-id-24400 .launch-sec.counter.cmn-bg-grey .count-wrap {
+		gap: 3.5rem !important;
+	}
+	
+	.page-id-5364 .faculty-box img.img-fluid {
+		width: 100% !important;
+		height: auto !important;
+	}
+	
+	/* placement records */
+	
+		.page-id-3849 .program-studies.tech-companies .sub-title-wrapper.study-head .sub-title-desc {
+		max-width: 100% !important;
+	}
+	
+	/* pierc */
+	
+	
+		.page-id-5100 .study-layout .study-details .study-head p {
+		max-width: 100%;
+	}
+	
+	.page-id-5100 .ranking-sec#achievements {
+		padding: 4rem 0 6rem 0 !important;
+	}
+	
+	.page-id-5100 .slider-card-content-desc {
+		font-size: 1rem;
+	}
+	
+	.page-id-5100 .upto-date {
+		padding-top: 0;
+		padding-bottom: 3rem;
+	}
+	
+	.page-id-5100 .pierc-btn {
+		flex-direction: row !important;
+		gap: 10px;
+		justify-content: center;
+	}
+	
+	/* international relations */
+	
+	
+		.page-id-9704 .faculty-box img.img-fluid {
+		height: auto !important;
+	}
+	
+	.page-id-9704 .detail-program {
+		padding-bottom: 1rem !important;
+	}
+	
+	.page-id-9704 .delegates-sec .card-image img.img-fluid {
+		width: 100%;
+	}
+	
+	.accordion-course {
+		padding-inline: 0rem !important;
+	}
+	
+	/* events and outreact */
+	
+		.page-id-24394 .sub-title-wrapper.study-head p {
+		max-width: 100%;
+	}
+	
+	/* collabrative research */
+		.page-id-25630 .tab-desc-area p.font-body-medium.font-color-grey {
+		display: block !important;
+		padding-block: 1rem !important;
+	}
+	
+	.page-id-25630 .sub-title-wrapper.study-head p.sub-title-desc {
+		max-width: 100%;
+	}
+	
+	/* international visiting professor programme */
+		.page-id-24349 .mid-banner-sec .mid-banner-rgt ul {
+		flex-direction: row !important;
+		gap: 10px;
+	}
+	
+	/* faculty - agriculture */
+	
+		.pu-expert-card {
+		width: 100% !important;
+	}
+	
+	.pu-expert-name {
+		margin: auto !important;
+		margin-bottom: 1rem !important;
+	}
+	
+	.pu-expert-tags {
+		justify-content: center;
+	}
+	
+	.pu-expert-photo img {
+		width: 200px !important;
+		height: 200px !important;
+	}
+	
+	/* life at pu */
+	
+	
+		.page-id-4067 .apply-sec .student-card {
+		min-height: auto !important;
+	}
+	
+	/* blogs */
+	
+		.page-id-5622 .detail-program .blog-card-list-items img,
+		.page-id-5622 .detail-program img.wp-post-image {
+		height: auto !important;
+		max-height: none !important;
+	}
+	
+	/* pu talks */
+	
+		.page-id-6632 .committee-list .event-details .font-box-title {
+		max-width: 100% !important;
+	}
+	
+	.page-id-25572 .launch-sec .count-wrap {
+		gap: 2rem !important;
+	}
+	
+	/* sports at pu */
+	
+		.page-id-5607 .sports-scholarships {
+		padding-top: 3rem !important;
+	}
+	
+	/* pu conferences */
+	
+		.page-id-31843 .conferences-section .section-title {
+		position: relative;
+	}
+	
+	.conference-card {
+		max-width: 100% !important;
+	}
+	
+	/* training and placement cell */
+	
+		.page-id-33497 .hiring-partners .partner-logo img {
+		height: 100px !important;
+		max-width: 120px !important;
+	}
+}
+
+/* Media Query: @media only screen and (min-width: 577px) and (max-width: 767px) */
+@media only screen and (min-width: 577px) and (max-width: 767px) {
+	/* about-us */
+	
+	.page-id-2252 .slide-sec .slider-card-top {
+		margin: 2rem !important;
+		font-size: 2.5rem !important;
+	}
+	
+	.page-id-2252 .slide-sec .slider-card-content-desc {
+		font-size: 2rem !important;
+	}
+	
+	/* leadership */
+	
+		.page-id-2348 .committee-sec .event-details h5.font-head-sm {
+		font-size: 2.25rem !important;
+	}
+	
+	/* awards and rankings */
+	
+		.page-id-2386 .award-flip-card-wrapper .flip-card-img {
+		width: 400px !important;
+		height: 300px !important;
+		object-fit: cover;
+	}
+	
+	.page-id-2386 .award-flip-card-wrapper .flip-card {
+		width: 90vw !important;
+		height: 400px !important;
+		margin-bottom: 1rem !important;
+	}
+	
+	/* campus */
+	
+		.page-id-2316 .campus-loc-section .slider-card-content-title {
+		font-size: 2.25rem !important;
+	}
+	
+	.page-id-2316 .campus-loc-section .slider-card-content-desc {
+		font-size: 1.2rem !important;
+	}
+	
+	/* pu infrastructure */
+	
+		.page-id-2771 .infrastructure-sec .infrastructure-content-title {
+		font-size: 2.25rem !important;
+	}
+	
+	/* academic overview */
+	
+		.page-id-6633 .university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	/* research and development center */
+	
+		.page-id-9821 .program-page .program-detail-area {
+		padding-block: 2.3rem !important;
+	}
+	
+	.page-id-9821 #no-bg-with-card .count-wrap {
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+		text-align: center;
+	}
+	
+	#no-bg-with-card .count {
+		text-align: center;
+	}
+	
+	/* pu libraries */
+	
+		.page-id-2687 .online-resources-sec .explore-area {
+		--grid-columns: 1;
+	}
+	
+	/* pu-talks */
+	
+		.page-id-6632 .committee-list .event-details .font-box-title {
+		max-width: 100%;
+	}
+	
+	.page-id-6632 .committee-list .event-details h5.font-head-sm {
+		font-size: 2.25rem;
+	}
+	
+	/* admissions - diploma */
+	
+		.term-diploma .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	.term-diploma .detail-program {
+		padding-top: 3.3rem !important;
+	}
+	
+	.term-diploma .university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	/* admissions - bachelors-programs */
+	
+		.term-bachelors-programs .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	.term-bachelors-programs .detail-program {
+		padding-top: 3.3rem !important;
+	}
+	
+	.term-bachelors-programs .university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	/* admissions - master programs */
+	
+		.term-masters-programs .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	.term-masters-programs .detail-program {
+		padding-top: 3.3rem !important;
+	}
+	
+	.term-masters-programs .university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	/* admissions - doctoral post program */
+	
+		.term-doctoral-post-doctoral-program .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	.term-doctoral-post-doctoral-program .detail-program {
+		padding-top: 3.3rem !important;
+	}
+	
+	.term-doctoral-post-doctoral-program .university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	.doctoral-tabs-wrapper,
+		.doctoral-tab-menu {
+		padding-block: 2.5rem !important;
+	}
+	
+	/* admissions - industry embedded */
+	
+		.term-industry-embeded.term-46 .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	/* pathaway programs */
+	
+		.term-pathway-program.term-48 .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	/* dual-degree program*/
+	
+		.term-dual-degree.term-38 .study-layout .study-details .study-list .study-box img {
+		padding-top: 0.3125rem;
+		height: auto;
+	}
+	
+	.term-dual-degree.term-38 .detail-program {
+		padding-top: 3.3rem !important;
+	}
+	
+	.term-dual-degree.term-38 .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	/* international admissions */
+		.page-id-9703 .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 2rem 2.25rem;
+	}
+	
+	.page-id-9703 .apply-sec .student-card {
+		min-height: 34.25rem !important;
+	}
+	
+	/* scholarship at pu */
+	
+		.page-id-4017 .study-layout .study-details .study-list .study-box img {
+		padding-top: 0.3125rem;
+		height: auto;
+	}
+	
+	.page-id-2427 .tab-content {
+		background: #ffffff;
+		padding: 10px;
+		border-radius: 5px;
+	}
+	
+	/* living at pu */
+	
+		.page-id-5364 .faculty-area .faculty-box img {
+		border-radius: 0.5rem;
+		overflow: hidden;
+		height: auto;
+		width: 100%;
+	}
+	
+	/* placement records */
+	
+		.page-id-3849 .human-card-img-wrap img {
+		min-width: 100% !important;
+		object-fit: cover !important;
+		object-position: center !important;
+		height: 380px !important;
+	}
+	
+	/* pierc */
+		.page-id-5100 .slider-card-wrap .slider-card .slider-card-top {
+		margin: 2rem;
+		font-size: 2.25rem;
+	}
+	
+	.hilight-sec .scroll-cards .scroll-card-img {
+		overflow: visible !important;
+	}
+	
+	.page-id-5100 .news-cards .card-section .card-image {
+		height: auto;
+	}
+	
+	.page-id-5100 .pierc-btn {
+		flex-direction: row !important;
+		gap: 10px;
+		justify-content: center;
+	}
+	
+	/* international relations */
+	
+		.page-id-9704 .faculty-area .faculty-box img {
+		border-radius: 0.5rem;
+		overflow: hidden;
+		height: auto;
+	}
+	
+	/* student mobility programs */
+	
+		.page-id-24503 .main-content .detail-program.detail-program-center .sub-title-wrapper.detail-title-head .sub-title-desc {
+		max-width: 100%;
+		text-align: center;
+	}
+	
+	/* 	staff mobility */
+	
+	
+		.page-id-24348 .excellence-area {
+		padding-block: 3rem !important;
+	}
+	
+	.page-id-24348 .excellence-area .sub-title-wrapper h2 {
+		margin-bottom: 0 !important;
+		padding-bottom: 2.3rem !important;
+	}
+	
+	.page-id-24348 .facility-sec {
+		padding-block: 4.5rem !important;
+	}
+	
+	/* events and outreach */
+	
+		.page-id-24394 .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30% !important;
+		margin: 3rem 2.25rem !important;
+	}
+	
+	.page-id-25630 .study-layout .study-details .study-list .study-box img {
+		padding-top: 0.3125rem;
+		height: auto;
+	}
+	
+	/* international visiting professor programme */
+	
+		.page-id-24349 .mid-banner-sec .mid-banner-rgt ul {
+		flex-direction: row !important;
+		gap: 10px;
+	}
+	
+	.page-id-24349 .realted-links-area {
+		padding-top: 1rem;
+	}
+	
+	.page-id-24349 .program-studies {
+		padding-top: 0 !important;
+	}
+	
+	/* all programs */
+	
+		.page-id-1038 .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 3rem 2.25rem;
+	}
+	
+	/* internationalization - life at pu */
+	
+		.page-id-4067 .scan-qr .mid-banner-sec-wrapper .mid-banner-rgt {
+		max-width: 100%;
+		padding: 30px;
+	}
+	
+	/* faculty - agriculture */
+	
+	
+		.get-to-know .get-content .get-card-card1 {
+		margin-top: 0;
+		overflow: hidden !important;
+	}
+	
+	.get-to-know .innovative-card-pic {
+		max-height: 380px !important;
+	}
+	
+	.get-to-know .innovative-card-pic img {
+		height: 100% !important;
+	}
+	
+	.postid-2469 .detail-program.tech-events {
+		padding-top: 4rem !important;
+	}
+	
+	.postid-2469 .facility-sec.cmn-spacing-tb {
+		padding: 4.5rem 0 0 0 !important;
+	}
+	
+	.pu-expert-card {
+		text-align: center;
+		flex-direction: row !important;
+		width: 100% !important;
+		padding: 1rem !important;
+	}
+	
+	.pu-expert-info {
+		flex: 1;
+		padding: 16px 20px;
+		text-align: left !important;
+	}
+	
+	/* applied science */
+	
+		.postid-2467 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	.postid-2443 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	.postid-2466 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* faculty - commerce */
+	
+	
+		.detail-program.cmn-spacing-tb {
+		padding-top: 3rem !important;
+	}
+	
+	.postid-5368 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* faculty - engineering and technology */
+	
+		.postid-2448 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* fine arts */
+	
+		.postid-2445 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* homeopathy */
+	
+		.postid-2446 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* hotel management */
+	
+		.postid-2447 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* it and computer science */
+	
+		.postid-2449 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* law */
+	
+		.postid-2450 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* liberal arts */
+	
+		.postid-2451 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* library information science */
+	
+		.postid-5394 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/*  management studies */
+	
+		.postid-5399 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* medicine */
+	
+		.postid-2455 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* 	nursing */
+	
+		.postid-2454 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* 	healthcare and science */
+	
+		.postid-9533 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* performing arts */
+	
+		.postid-2463 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* pharmacy */
+	
+		.postid-2457 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* physiotherapy */
+		.postid-2456 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* public health */
+		.postid-9530 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* social work */
+	
+		.postid-5396 .apply-sec .student-card {
+		min-height: 33.25rem !important;
+	}
+	
+	/* blogs */
+	
+		.blog-card-section .faculty-area .faculty-box img {
+		width: 100%;
+		height: auto;
+	}
+	
+	/* campus life at pu	 */
+		.page-id-25572 .count-wrap {
+		gap: 2.5rem;
+	}
+	
+	/* sports at pu */
+	
+		.page-id-5607 .slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		margin: 3rem 2.25rem;
+	}
+	
+	/* conference website */
+		.page-id-31843 .conferences-section .conferences-grid .conference-card {
+		min-width: auto;
+	}
+}
+
+/* Media Query: @media only screen and (min-width: 768px) and (max-width: 991px) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.research-project-card .item {
+		width: 47%;
+		margin: 10px;
+	}
+	
+	/* about us/leadership */
+	
+		.page-id-2348 .study-details .quote-block {
+		padding-top: 0 !important;
+	}
+	
+	/* pu-advantage */
+	
+		.page-id-2565 .human-card-img-wrap {
+		height: 305px !important;
+	}
+	
+	.page-id-2565 .human-card-img-wrap img {
+		width: 100%;
+		height: 100%;
+	}
+	
+	/* awards and rankings */
+	
+		.flip-card-front,
+		.flip-card-back {
+		justify-content: space-evenly !important;
+	}
+	
+	/* life at pu */
+	
+		.page-id-4067 .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	/* research and development center */
+	
+		.page-id-9821 .study-layout .study-details .study-head p {
+		max-width: 100%;
+	}
+	
+	/* student welfare */
+	
+		.page-id-8022 .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	.page-id-6632 .program-studies .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	.page-id-6632 .program-studies .study-layout .study-details,
+		.page-id-6632 .study-layout .study-details .study-head p {
+		max-width: 100%;
+	}
+	
+	.term-bachelors-programs .program-studies .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	/* academics - post doctoral */
+	
+		.term-doctoral-post-doctoral-program .doctoral-tab-menu {
+		padding: 25px;
+	}
+	
+	/* industry embedded */
+	
+		.term-industry-embeded .program-studies .study-layout.study-layout-two-img .study-details {
+		max-width: 100% !important;
+	}
+	
+	.term-industry-embeded .study-layout .study-details .study-head p {
+		min-width: auto;
+		max-width: 100%;
+	}
+	
+	/* dual degree program */
+	
+		.term-dual-degree .program-studies .study-layout.study-layout-two-img .study-details {
+		max-width: 100% !important;
+	}
+	
+	/* international admissions */
+	
+		.page-id-9703 .apply-sec .student-card {
+		min-height: 37.25rem !important;
+	}
+	
+	/* how to apply */
+	
+		.page-id-965 .detail-program {
+		padding-top: 3rem !important;
+	}
+	
+	/* scholarship at pu */
+		.page-id-4017 .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	.page-id-4017 .program-studies .sub-head {
+		max-width: 100%;
+	}
+	
+	.page-id-4017 .study-layout.study-layout-two-img .study-image img.dual-study-image {
+		width: 100%;
+		height: 100%;
+	}
+	
+	.page-id-4017 .study-layout.study-layout-two-img .study-image {
+		min-width: 100%;
+	}
+	
+	.page-id-4017 .program-studies .study-layout.study-layout-two-img .study-details {
+		max-width: 100% !important;
+	}
+	
+	/* living at pu */
+	
+		.page-id-5364 .detail-program .faculty-area {
+		--grid-columns: 2 !important;
+	}
+	
+	.page-id-5364 .faculty-area .faculty-box img {
+		height: auto;
+		width: 100%;
+	}
+	
+	/* placement records */
+	
+		.page-id-3849 .study-layout .study-image {
+		max-width: 100%;
+		border-radius: 1rem;
+	}
+	
+	.page-id-3849 .study-layout .study-image img {
+		width: 100%;
+		height: auto;
+	}
+	
+	/* placement records */
+	
+		.page-id-3849 .human-card-img-wrap img {
+		min-width: 100% !important;
+		object-fit: contain !important;
+		object-position: center !important;
+		height: 440px !important;
+	}
+	
+	.page-id-3849 .apply-sec .student-card {
+		min-height: 37.25rem !important;
+	}
+	
+	/* pierc */
+	
+		.page-id-5100 .program-studies .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	.page-id-5100 .program-studies .study-layout .study-details {
+		max-width: 100%;
+	}
+	
+	.page-id-5100 .study-layout .study-details .study-head p {
+		min-width: auto;
+		max-width: 100%;
+	}
+	
+	.page-id-5100 .message-sec .message-image img {
+		object-fit: cover;
+	}
+	
+	.page-id-5100 .apply-sec .student-card {
+		min-height: 37.25rem !important;
+	}
+	
+	/* international relations */
+	
+		.page-id-9704 .detail-program .faculty-area {
+		--grid-columns: 2 !important;
+	}
+	
+	.page-id-9704 .president-section .study-layout .study-image {
+		min-width: 100%;
+	}
+	
+	/* staff mobility */
+	
+		.page-id-24348 .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	.page-id-24348 .program-studies {
+		padding: 1.5rem 0 4.5rem 0;
+	}
+	
+	.page-id-24348 .excellence-area {
+		padding-top: 3rem;
+	}
+	
+	.page-id-24348 .excellence-area .sub-title-lg {
+		margin-bottom: 2rem !important;
+	}
+	
+	.page-id-24348 .facility-sec {
+		padding-top: 3rem;
+	}
+	
+	/* events and outreach */
+	
+		.page-id-24394 .study-layout .study-image,
+		.page-id-24394 .study-layout .study-details .study-head p {
+		max-width: 100%;
+	}
+	
+	/* 	collabrative research */
+	
+		.page-id-25630 .study-layout .study-image {
+		max-width: 100%;
+		width: 100%;
+		border-radius: 1rem;
+	}
+	
+	.page-id-25630 .program-studies .study-layout .study-image .img-fluid {
+		max-width: 100%;
+		width: 100%;
+	}
+	
+	.page-id-25630 .main-content .program-studies .sub-title-wrapper .head-title {
+		max-width: 100%;
+	}
+	
+	.page-id-25630 .study-layout .study-details .study-head p {
+		min-width: auto;
+		max-width: 100%;
+	}
+	
+	/* international visiting professor programme */
+	
+		.page-id-24349 .mid-banner-sec .mid-banner-left img {
+		margin-top: -40px;
+	}
+	
+	.page-id-24349 .mid-banner-sec-wrapper {
+		margin-top: 4.5rem;
+	}
+	
+	.page-id-24349 .mid-banner-sec .mid-banner-left {
+		margin-left: 0;
+		margin-right: 0;
+		min-width: 35%;
+		max-width: 50%;
+	}
+	
+	.page-id-24349 .study-layout .study-image {
+		max-width: 100%;
+		width: 100%;
+		border-radius: 1rem;
+	}
+	
+	.page-id-24349 .program-studies .study-layout .study-image .img-fluid {
+		max-width: 100%;
+		width: 100%;
+	}
+	
+	.page-id-24349 .realted-links-area {
+		padding-top: 0rem !important;
+	}
+	
+	/* international admissions */
+	
+		.page-id-9703 .mid-banner-sec-wrapper {
+		margin-top: 1.5rem;
+	}
+	
+	/* 	faculty - agriculture */
+	
+		.pu-expert-card {
+		flex-direction: column;
+		text-align: center;
+	}
+	
+	.pu-expert-info {
+		margin-top: 4rem;
+	}
+	
+	.pu-expert-photo img {
+		width: 200px;
+		height: 230px;
+		margin: 2rem auto;
+	}
+	
+	.apply-sec .student-card {
+		min-height: 37.25rem !important;
+	}
+	
+	.pu-expert-tags {
+		justify-content: center;
+	}
+	
+	.pu-expert-name {
+		margin: auto;
+		margin-bottom: 1rem';
+	}
+	
+	.get-to-know .get-content .get-card-card1 {
+		margin-top: 0;
+		overflow: hidden !important;
+	}
+	
+	.get-to-know .innovative-card-pic {
+		max-height: 380px !important;
+	}
+	
+	.get-to-know .innovative-card-pic img {
+		height: 100% !important;
+	}
+	
+	.university-highlights .highlight-content .highlight-card {
+		min-width: 50%;
+		max-width: 50%;
+		border-left: 0px solid #d9d9d9;
+		padding: 0 0 2.5rem 0;
+		padding-left: 1.5rem !important;
+	}
+	
+	.postid-2467 .tech-events {
+		padding-top: 2.5rem !important;
+	}
+	
+	/* applied science */
+	
+		.pu-expert-photo img {
+		margin: 2rem auto !important;
+	}
+	
+	/* management studies */
+	
+		.tag-set3 {
+		font-size: 15px;
+	}
+	
+	.postid-5399 .experts .expert-head-area {
+		min-width: 100%;
+		max-width: 100%;
+	}
+	
+	.detail-program.cmn-spacing-tb {
+		padding: 3rem 0 0 0 !important;
+	}
+	
+	/* life at pu */
+		.page-id-4067 .apply-sec .student-card {
+		min-height: auto !important;
+	}
+	
+	/* blogs */
+	
+		.page-id-5622 .detail-program .faculty-area {
+		--grid-columns: 2 !important;
+	}
+	
+	.page-id-5622 .detail-program.cmn-spacing-tb {
+		padding: 3rem 0 3rem 0 !important;
+	}
+	
+	/* campus life at pu */
+	
+		.page-id-25572 .study-layout .study-image {
+		max-width: 100%;
+		border-radius: 1rem;
+	}
+	
+	.page-id-25572 .launch-sec .count-wrap {
+		gap: 1.5rem;
+	}
+	
+	.page-id-25572 .explore-area.explore-area-two {
+		margin-top: 5rem;
+	}
+	
+	/* sports at pu */
+	
+		.page-id-5607 .study-layout .study-image {
+		max-width: 100%;
+		border-radius: 1rem;
+	}
+	
+	/* conference */
+	
+		.page-id-31843 .conferences-section .conferences-grid .conference-card {
+		min-width: auto;
+	}
+}
+
+/* Media Query: @media (min-width : 768px) and (max-width: 991px) */
+@media (min-width : 768px) and (max-width: 991px) {
+	.slider-card-wrap .slider-card {
+		min-width: 6.75rem;
+		min-height: 16.375rem;
+	}
+	
+	.live-design-sec .container .live-design-wrapper .slide-cards-wrapper .slider-card-wrap .slider-card .slider-card-icon {
+		display: none;
+	}
+	
+	.sub-title-span.font-weight-900.d-block.cmn-span-clr {
+		font-size: 3rem;
+	}
+	
+	.live-design-sec .sub-title-container {
+		margin-top: 2rem;
+	}
+	
+	.masterclasses-sec.cmn-spacing-tb {
+		padding-top: 1rem !important;
+	}
+	
+	.masterclasses-card-wrapper .masterclasses-card .masterclasses-wrapper .masterclass-content .masterclass-card-content .masterclass-title {
+		font-size: 1.4rem;
+	}
+	
+	.masterclasses-card-wrapper .masterclasses-card .masterclasses-wrapper .masterclass-content {
+		padding: 0.25rem 0.5rem;
+	}
+	
+	.masterclasses-card-wrapper .masterclasses-card .masterclasses-wrapper .masterclass-content .masterclass-card-content {
+		justify-content: space-around;
+	}
+	
+	.committee-title.font-head-lg.font-weight-700.mt-16.mt-md-56 {
+		margin-top: 0rem !important;
+	}
+	
+	.content-section {
+		padding: 1.5rem 0 1.875rem 0;
+	}
+	
+	.accordian-drop-down p {
+		padding-block: 2rem;
+	}
+	
+	.assessment-area .study-layout {
+		padding: 1rem 0;
+	}
+	
+	.assessment-area.cmn-spacing-tb {
+		padding-bottom: 1rem !important;
+	}
+	
+	.overview-image-section .image-wrapper .image-card-block {
+		max-width: 349px;
+		min-height: 200px;
+	}
+	
+	.excellence-area.cmn-spacing-tb {
+		padding-top: 3rem;
+	}
+	
+	.exam-content-accordion-wrapper {
+		padding-inline: 20px;
+	}
+	
+	.professors-lists .list-item {
+		align-items: center;
+	}
+	
+	.explore-sec-info-wrapper.d-flex {
+		align-items: center;
+	}
+	
+	.sub-title-wrapper.mt-24.mt-md-32 {
+		text-align: left;
+	}
+	
+	.program-detail-area {
+		padding: 0.5rem 0 2.375rem 0;
+	}
+	
+	.program-detail-area .tab-desc-area {
+		text-align: center;
+	}
+	
+	.faq-sec {
+		--faq-sec-padding: 110px 0 50px;
+	}
+	
+	#all-course-finder {
+		padding-bottom: 1rem !important;
+	}
+	
+	.detail-program-center .detail-title-head {
+		margin-top: 3rem;
+	}
+	
+	.scholarship-area-two .scholar-area .scholarship-images .scholar-cards {
+		align-items: center !important;
+	}
+	
+	.tab-desc-area {
+		text-align: left !important;
+	}
+	
+	.slide-sec-colored .slide-cards-wrapper .slider-card-row {
+		flex-direction: column;
+	}
+	
+	.sub-title-lg.font-head-xxl.font-weight-400 {
+		text-align: left;
+	}
+	
+	.sub-title-desc.font-body-medium.pt-24 {
+		text-align: left;
+	}
+	
+	.content-image .img-fluid {
+		max-width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	
+	.explore-area .explore-box {
+		justify-content: flex-start;
+	}
+	
+	.infrastructure-sec {
+		margin: 4.5rem 0px;
+	}
+	
+	.experience-section .sub-title-wrapper {
+		margin-bottom: 0;
+	}
+	
+	.experience-section.cmn-spacing-tb {
+		padding: 3rem 0;
+	}
+	
+	.recognitions-tabs.mt-24.mt-md-56 {
+		margin-top: 1.5rem !important;
+	}
+	
+	.international-card-wrapper {
+		grid-template-columns: 1fr 1fr;
+	}
+	
+	.international-card.white-box {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start !important;
+	}
+	
+	.international-card-content {
+		margin-top: 0 !important;
+	}
+	
+	.study-layout {
+		-ms-flex-direction: column;
+		flex-direction: column-reverse;
+	}
+	
+	.study-layout .study-details {
+		max-width: 100%;
+	}
+	
+	.committee-sec.cmn-spacing-top.cmn-spacing-bottom {
+		padding-top: 2rem;
+	}
+	
+	.committee-list {
+		margin-top: 1.5rem;
+	}
+	
+	.sub-title-wrapper.detail-title-head .font-head-xxl {
+		padding-bottom: 0 !important;
+	}
+	
+	.vision-section .vision-detail-area {
+		padding: 4rem 0;
+	}
+	
+	.launch-sec .count-wrap-3 {
+		--grid-columns: 1;
+	}
+	
+	.launch-sec .point-wrap-3 {
+		align-items: center;
+	}
+	
+	.launch-sec .count .blue-span-text {
+		padding: 1rem 0;
+	}
+	
+	.startup-wrapper .startup-card {
+		grid-template-columns: 1fr 1fr;
+		gap: 1rem;
+	}
+	
+	.tech-events .program-tabs .event-detail-area .major-event img {
+		object-fit: cover;
+	}
+}
+
+/* Media Query: @media only screen and (min-width: 992px) and (max-width: 1200px) */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	/* leadership */
+	
+	.page-id-2348 .president-section .quote-block {
+		padding-top: 0 !important;
+	}
+	
+	.page-id-2348 .committee-sec {
+		padding-top: 1.875rem !important;
+	}
+	
+	/* vision and mission */
+	
+		.page-id-2292 .study-layout {
+		justify-content: center;
+	}
+	
+	/* pu advantage */
+	
+	
+		.page-id-2565 .human-card-img-wrap {
+		max-height: 400px;
+	}
+	
+	/* awards and rankings */
+	
+		.flip-card-front,
+		.flip-card-back {
+		justify-content: space-evenly !important;
+	}
+	
+	/* social responsive cell */
+	
+		.page-id-3713 #social-initiative-slider h2.slide-title,
+		.page-id-3713 #social-initiative-slider h2.slide-title span {
+		font-size: 2.5rem;
+	}
+	
+	.page-id-3713 #social-initiative-slider a.p-btn.p-btn-primary {
+		padding: 1rem;
+		white-space: nowrap;
+	}
+	
+	.page-id-3713 .slider-tabs .slider-tabs-nav .tab-layout-2 .nav-link {
+		margin-left: 1rem;
+	}
+	
+	/* research and development center */
+	
+		.page-id-9821 .launch-sec .launch-contents-home-2 .sub-title-lg {
+		max-width: 100%;
+	}
+	
+	/* student welfare */
+	
+		.page-id-8022 .libraries-card-sec .sub-title-desc {
+		max-width: 100%;
+	}
+	
+	.page-id-8022 .program-studies.cmn-spacing-tb {
+		padding: 0 0 3.875rem 0 !important;
+	}
+	
+	/* professor of practice */
+	
+		.professors-lists {
+		gap: 100px;
+	}
+	
+	.page-id-2585 .list-content .col-lg-7 {
+		width: 100%;
+		max-width: 100%;
+	}
+	
+	/* 	pu-libraries */
+	
+	
+		.page-id-2687 .launch-sec .launch-contents .launch-title,
+		.page-id-2687 .launch-sec .launch-contents .launch-desc {
+		max-width: 100%;
+	}
+	
+	.page-id-2687 .launch-sec .count-wrap {
+		--grid-gap: 2.5rem;
+	}
+	
+	/* bachelor programs */
+	
+		.study-layout .study-details .study-list .study-box {
+		max-width: 100%;
+	}
+	
+	.study-layout .study-details .study-list .study-box p {
+		max-width: 100%;
+	}
+	
+	/* doctoral program */
+	
+		.term-doctoral-post-doctoral-program .cmn-spacing-tb {
+		padding: 6.875rem 0 2.5rem 0;
+	}
+	
+	/* industry embedded */
+	
+		.term-industry-embeded .content-section .sub-title-lg.font-head-xxl,
+		.term-industry-embeded .content-section .sub-title-lg.font-head-xxl span {
+		font-size: 2.5rem;
+	}
+	
+	h2.sub-title-lg.font-head-xxl,
+		h2.sub-title-lg.font-head-xxl span {
+		font-size: 2.5rem;
+	}
+	
+	.include-exclude-sec .sub-title-lg,
+		.include-exclude-sec .sub-title-lg span {
+		font-size: 3rem;
+	}
+	
+	/* dual degree */
+	
+	
+		.study-layout .study-details .study-head .sub-title-desc {
+		min-width: auto;
+		max-width: 100% !important;
+	}
+	
+	.program-studies .study-layout.study-layout-two-img .study-details {
+		max-width: 100% !important;
+	}
+	
+	.launch-sec-program .employee-card-wrap .human-card-wrapper {
+		--grid-columns: 3;
+		grid-template-columns: repeat(3, 1fr);
+	}
+	
+	/* scholarship at pu */
+	
+		.page-id-4017 .tab-content {
+		background: none !important;
+	}
+	
+	/* scholarship at pu */
+	
+		.page-id-4017 .study-layout .study-image {
+		max-width: 100%;
+	}
+	
+	.page-id-4017 .study-layout.study-layout-two-img .study-image>img {
+		max-width: 100%;
+		width: 100%;
+	}
+	
+	.page-id-4017 .study-layout .study-details {
+		max-width: 100%;
+	}
+	
+	.page-id-4017 .program-studies .sub-head {
+		max-width: 100%;
+	}
+	
+	.sports-scholarships .sub-head {
+		max-width: 100%;
+	}
+	
+	/* placement records */
+	
+	
+		.page-id-3849 .employee-card-wrap .human-card-wrapper {
+		--grid-columns: 3;
+	}
+	
+	/* pierc */
+	
+		.hilight-sec .scroll-cards .scroll-card-img {
+		max-width: 100%;
+	}
+	
+	/* .page-id-5100 .hilight-sec .scroll-cards {
+		flex-direction: column-reverse;
+		gap: 1rem;
+	}
+	
+	.page-id-5100 .hilight-sec .scroll-cards .scroll-card-img img {
+		width: 100%;
+		object-fit: cover;
+	}
+	
+	*/
+	
+		.hilight-sec .scroll-cards {
+		flex-direction: column-reverse;
+		gap: 1rem;
+	}
+	
+	.hilight-sec .scroll-cards .scroll-card-img img {
+		width: 100%;
+		object-fit: cover;
+	}
+	
+	.page-id-5100 .upto-date.cmn-spacing-tb {
+		padding: 0 0 6.875rem 0;
+	}
+	
+	.message-sec .message-image img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	
+	/* international relations */
+	
+		.page-id-9704 .hilight-sec .sub-title-wrapper h4.sub-title-lg {
+		font-size: 2.5rem;
+		line-height: 1;
+	}
+	
+	.page-id-9704 .hilight-sec h4.sub-title-lg.font-head-xxl {
+		font-size: 2.5rem;
+	}
+	
+	/* staff mobiltiy */
+	
+		.excellence-area.cmn-spacing-btm.cmn-spacing-bottom {
+		padding-block: 3rem;
+	}
+	
+	.page-id-24348 .facility-sec.cmn-spacing-bottom {
+		padding-top: 3rem;
+	}
+	
+	/* international visiting professor programme */
+	
+		.page-id-24349 .program-studies.cmn-spacing-tb {
+		padding: 0 0 6.875rem 0 !important;
+	}
+	
+	/* faculty - agriculture */
+	
+		.pu-expert-name {
+		width: 100% !important;
+	}
+	
+	.pu-expert-card {
+		flex-direction: column;
+		text-align: center;
+	}
+	
+	.pu-expert-info {
+		margin-top: 4rem;
+	}
+	
+	.pu-expert-photo img {
+		width: 230px !important;
+		height: 250px !important;
+		margin: 2rem auto !important;
+	}
+	
+	.pu-expert-tags {
+		justify-content: center;
+	}
+	
+	.experts .expert-head-area h3,
+		.experts .expert-head-area h3 span {
+		font-size: 2.5rem;
+		margin-bottom: 2rem;
+	}
+	
+	.tag-set3 {
+		font-size: 15px;
+	}
+	
+	.tech-events .program-tabs .event-detail-area .major-event img {
+		object-fit: cover;
+	}
+	
+	#faculties .expert-details .font-box-title {
+		text-align: left;
+	}
+	
+	/* campus life  */
+	
+		.page-id-25572 .tab-content {
+		background: none !important;
+	}
+	
+	.page-id-25572 .main-content .launch-sec .count-wrap {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+	}
+	
+	/* sports at pu */
+	
+		.page-id-5607 .mid-banner-sec-wrapper {
+		margin-top: 10px !important;
+	}
+	
+	/* conference */
+	
+		.page-id-31843 .conferences-section .conferences-grid .conference-card {
+		min-width: auto;
+	}
+	
+	/* life at pu */
+		.page-id-4067 .apply-sec .student-card {
+		min-height: auto !important;
+	}
+}
+
+/* Media Query: @media only screen and (min-width: 1200px) and (max-width: 1400px) */
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+	/* campus life at pu */
+	
+	.page-id-25572 .main-content .launch-sec .count-wrap {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr) !important;
+	}
+	
+	/* 	leadership */
+	
+		.page-id-2348 .quote-block {
+		padding-top: 0 !important;
+	}
+	
+	.page-id-2348 .committee-sec.cmn-spacing-top {
+		padding-top: 1.875rem !important;
+	}
+	
+	.flip-card {
+		width: 100% !important;
+		height: 500px !important;
+	}
+	
+	.recognitions-sec .award-flip-card-grid {
+		grid-template-columns: repeat(3, 1fr) !important;
+	}
+	
+	.flip-card-front,
+		.flip-card-back {
+		justify-content: space-around !important;
+	}
+	
+	/* research and development center */
+	
+		.program-studies .study-layout .study-details .study-head p {
+		text-align: justify;
+	}
+	
+	.page-id-9821 .launch-sec.launch-sec-home-2 .sub-title-wrapper .sub-title-desc {
+		max-width: 95%;
+		text-align: center;
+	}
+	
+	.page-id-9821 .launch-sec .launch-contents-home-2 .sub-title-lg {
+		max-width: 90%;
+	}
+	
+	/* teaching practices */
+	
+		.page-id-7857 .content-section {
+		padding: 1.5rem 0 1.875rem 0 !important;
+	}
+	
+	/* professor of practice */
+		.professors-lists {
+		gap: 100px;
+	}
+	
+	.page-id-2585 .list-content .col-lg-7 {
+		width: 100%;
+		max-width: 100%;
+	}
+	
+	.page-id-2585 .tab-content p {
+		line-height: 1.7;
+		font-size: 17px;
+	}
+	
+	.page-id-2585 .message {
+		font-size: 17px;
+		line-height: 1.7;
+	}
+	
+	/* pu libraries */
+	
+		.page-id-2687 .launch-sec .launch-contents .launch-desc {
+		max-width: 100%;
+	}
+	
+	.libraries-possibilities .count-wrap {
+		justify-content: space-evenly;
+	}
+	
+	/* bachelor program */
+	
+		.study-layout .study-details .study-list .study-box {
+		max-width: 100%;
+	}
+	
+	.study-layout .study-details .study-list .study-box p {
+		max-width: 100%;
+	}
+	
+	/* master programs */
+		.term-masters-programs .industry-section {
+		padding-top: 0.875rem;
+	}
+	
+	/* doctoral program */
+	
+		.term-doctoral-post-doctoral-program .realted-links-area {
+		padding-top: 4.5rem;
+		padding-bottom: 3rem;
+	}
+	
+	.term-doctoral-post-doctoral-program .industry-section {
+		padding-top: 0.875rem;
+	}
+	
+	/* pathway program */
+	
+	
+		.term-pathway-program .include-exclude-wrapper {
+		justify-content: space-around !important;
+	}
+	
+	/* international admissions */
+	
+		.page-id-9703 .employee-card-wrap .human-card-wrapper {
+		--grid-columns: 3 !important;
+	}
+	
+	.page-id-9703 .human-card-img-wrap.mt-52 {
+		width: 100%;
+		height: 540px;
+	}
+	
+	.page-id-9703 .human-card-img-wrap {
+		background-image: url(../fonts/popper-bg.svg);
+		background-repeat: no-repeat;
+		max-height: 500px;
+	}
+	
+	/* scholarship at pu */
+		.page-id-4017 .industry-section .accordian-content .accordian-image {
+		background: none;
+	}
+	
+	/* pierc */
+	
+		.message-sec .message-image img {
+		object-fit: cover;
+	}
+	
+	.page-id-5100 .upto-date {
+		padding-top: 2.5rem !important;
+	}
+	
+	/* international relations */
+	
+		.page-id-9704 .celebrity-sec {
+		padding-top: 2rem !important;
+	}
+	
+	/* staff mobility */
+		.page-id-24348 .program-studies-title {
+		max-width: 100%;
+	}
+	
+	.page-id-24348 .excellence-area {
+		padding: 0 !important;
+		padding-block: 4rem !important;
+	}
+	
+	.page-id-24348 .excellence-area .sub-title-lg {
+		margin-bottom: 1.5rem !important;
+	}
+	
+	.page-id-24348 .facility-sec {
+		padding-top: 5rem !important;
+	}
+	
+	/* collabrative research */
+		.page-id-25630 .content-section.cmn-spacing-tb {
+		padding: 1.5rem 0 5rem 0 !important;
+	}
+	
+	.page-id-25630 .facility-sec.cmn-spacing-tb {
+		padding: 0rem 0 6.875rem 0 !important;
+	}
+	
+	/* faculty - agriculture */
+	
+	
+		.event-cards .main-card .main-card-data {
+		max-width: 100%;
+	}
+	
+	.tech-events .program-tabs .event-details {
+		max-width: 100%;
+		padding-top: 2rem;
+	}
+	
+	.experts .expert-details .font-box-title {
+		text-align: left;
+	}
+	
+	/* faculty - architechture */
+	
+	
+		.postid-2466 section.get-to-know .banner-area {
+		max-width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	
+	.postid-2466 section.get-to-know .sub-title-desc {
+		text-align: center;
+	}
+	
+	.postid-2466 .detail-program.tech-events .sub-title-desc {
+		text-align: center;
+	}
+	
+	/* ayurveda */
+	
+		.postid-2443 .detail-program.tech-events .sub-title-desc {
+		text-align: center;
+	}
+	
+	section.experts .expert-head-area h3 {
+		margin-bottom: 2rem;
+	}
+	
+	.postid-5368 section.get-to-know .banner-area {
+		max-width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	
+	.postid-5368 section.get-to-know .sub-title-desc {
+		text-align: center;
+	}
+	
+	.postid-5368 .detail-program.tech-events .sub-title-desc {
+		text-align: center;
+	}
+	
+	/* faculty of commerce */
+		.facility-sec .facility-title-wrapper .sub-title-desc {
+		max-width: 100%;
+	}
+	
+	/* hotel management catering */
+	
+		.human-card-img-wrap.mt-52 {
+		height: 450px !important;
+	}
+	
+	.human-card-img-wrap {
+		max-height: 500px !important;
+	}
+	
+	/* performing arts */
+	
+		.get-to-know .banner-area {
+		max-width: 90%;
+	}
+	
+	section.get-to-know .sub-title-desc {
+		text-align: center;
+	}
+	
+	/*  life at pu */
+	
+	
+		/* life at pu */
+		.page-id-4067 .apply-sec .student-card {
+		min-height: 100% !important;
+	}
+}
+
+/* Media Query: @media (min-width: 1900px) and (max-width: 2700px) */
+@media (min-width: 1900px) and (max-width: 2700px) {
+	.page-id-9704 .student-card-wrapper .owl-item {
+		min-width: 415px !important;
+	}
+}
+
+/* Media Query: @media only screen and (max-width : 2500px) */
+@media only screen and (max-width : 2500px) {
+	/* pu-advantage - NAAC LOGO */
+	
+	.overview-image-section-single .image-wrapper .image-card-block .image-card-content .image-logo-box {
+		margin-bottom: 2.5rem;
+	}
+	
+	/* life at pu */
+		.page-id-4067 .apply-sec .student-card {
+		min-height: 100% !important;
+	}
+	
+	.page-id-25572 .main-content .launch-sec .count-wrap {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr) !important;
+	}
+}
+
+/* Media Query: @media (max-width: 1200px) */
+@media (max-width: 1200px) {
+	.page-id-39407 .study-layout .study-details {
+		max-width: 60%;
+	}
+	
+	.page-id-39407 .study-layout .study-image {
+		max-width: 40%;
+	}
+	
+	.page-id-39407 .study-layout .study-details .study-list {
+		column-gap: 1.5rem;
+	}
+}
+
+/* Media Query: @media (max-width:992px) */
+@media (max-width:992px) {
+	.sub-child-container {
+		flex-direction: column;
+		align-items: center;
+	}
+	
+	.subtab-left,
+		.child-right {
+		width: 100%;
+	}
+	
+	.child-right {
+		margin-top: 20px;
+	}
+	
+	.page-id-39407 .study-layout {
+		flex-direction: column;
+		gap: 2rem;
+	}
+	
+	.page-id-39407 .study-layout .study-details,
+		.page-id-39407 .study-layout .study-image {
+		max-width: 100%;
+		min-width: 100%;
+	}
+	
+	/* Disable alternate layout on tablet */
+		.page-id-39407 .program-studies:nth-of-type(even) .study-layout {
+		flex-direction: column;
+	}
+	
+	.page-id-39407 .study-layout .study-details .study-list {
+		padding: 2rem 0;
+	}
+	
+	.page-id-39407 .excellence-area .highlight-card {
+		flex: 1 1 50%;
+		max-width: 50%;
+	}
+	
+	.page-id-35801 .pu_gallary_page_mosaic_grid {
+		column-count: 2;
+	}
+}
+
+/* Media Query: @media only screen and (max-width : 991px) */
+@media only screen and (max-width : 991px) {
+	.banner-sec .banner-title {
+		padding-top: 3rem;
+	}
+	
+	.employee-card-wrap .human-card-wrapper {
+		grid-gap: 20px;
+		--grid-columns: 2;
+	}
+	
+	.event-cards .main-card {
+		margin: auto;
+	}
+	
+	.apply-sec .student-card {
+		min-height: 23.25rem !important;
+	}
+	
+	.mid-banner-sec .mid-banner-rgt {
+		padding: 2rem;
+	}
+	
+	.contact-detail-wrapper {
+		padding-left: 3.3125rem;
+	}
+	
+	.program-detail-area .tab-desc-area {
+		--common-content-width-right-column: 100%;
+	}
+	
+	.program-detail-area {
+		flex-direction: column;
+		gap: 0;
+	}
+	
+	.realted-links-area .link-head {
+		padding: 1rem;
+	}
+	
+	.realted-links-area .related-boxes .box-areas .box-data {
+		align-items: center;
+	}
+	
+	.font-head-xxl {
+		font-size: 2.5rem;
+		padding-bottom: 1rem;
+	}
+	
+	.hilight-sec h4 {
+		padding-bottom: 0;
+	}
+	
+	.hilight-sec .hilight-card {
+		max-width: 100%;
+	}
+	
+	.filter-multiselect-wrapper {
+		justify-content: center;
+	}
+	
+	.filter-expand-wrapper .expand-collapse-wrapper {
+		padding: 1.5rem;
+	}
+	
+	.accordion-course {
+		padding-inline: 1.5rem;
+	}
+	
+	.faculty-area {
+		--grid-columns: 2;
+	}
+	
+	.cmn-spacing-tb.celebrity-sec {
+		padding: 2.5rem 0;
+	}
+	
+	.committee-list {
+		grid-template-columns: 1fr 1fr;
+	}
+	
+	.university-highlights .highlight-head {
+		padding-top: 4.5rem;
+	}
+	
+	.university-highlights .highlight-content {
+		padding-top: 1.5rem;
+	}
+	
+	.content-section.cmn-spacing-tb {
+		padding: 2.5rem 0;
+	}
+	
+	.explore-area.explore-area-bg-white {
+		margin-top: 25px;
+	}
+	
+	.launch-sec .count .blue-span-text {
+		max-width: 100%;
+		padding-bottom: 1rem;
+	}
+	
+	.launch-sec.launch-campus .overview-image-section .image-card-block .image-card-content {
+		padding: 1rem;
+	}
+	
+	.program-studies .study-layout .study-image .img-fluid {
+		height: 100%;
+		object-fit: cover;
+	}
+	
+	.slider-card-wrap .slider-card .slider-card-icon {
+		min-width: 65px;
+		max-width: 65px;
+	}
+	
+	.slide .alumni-card {
+		gap: 0;
+	}
+	
+	.slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		max-width: 30%;
+		margin: 1rem 1.25rem;
+	}
+	
+	.tech-companies {
+		padding-bottom: 0;
+	}
+	
+	.industry-section .accordian-content .accordian-desc .accordian-drop-down .accordian-head-desc {
+		margin: 1.5rem 1.875rem 1.5rem 1rem !important;
+	}
+	
+	.slider-tabs-nav {
+		padding-inline: 1rem;
+	}
+	
+	.tab-slider-sec .sub-title-wrapper .slide-title {
+		max-width: 500px;
+	}
+	
+	.detail-program.cmn-spacing-tb {
+		padding-top: 1rem !important;
+	}
+	
+	.ranking-sec .ranking-card-wrap .ranking-card-rgt .owl-nav {
+		left: 48%;
+	}
+	
+	.realted-links-area .related-boxes .box-areas {
+		align-items: center;
+	}
+	
+	.study-layout.study-layout-two-img .study-details {
+		gap: 1.5rem;
+	}
+	
+	.study-layout {
+		flex-wrap: nowrap;
+	}
+	
+	.education-tabs-wrapper .education-tabs-nav {
+		overflow-x: visible;
+	}
+	
+	.leading-sec .creative-card {
+		padding-top: 2.5rem;
+		gap: 20px;
+	}
+	
+	#cardsContainer .item.right-card .creative-card {
+		display: none;
+	}
+	
+	.pid-card-wrapper {
+		gap: 1.5rem;
+	}
+	
+	.slide-cards-wrapper {
+		flex-direction: column;
+	}
+	
+	.sub-title-container .sub-title-text {
+		font-size: 2rem;
+		line-height: 2.14;
+	}
+	
+	.page-id-38381 .study-layout {
+		flex-direction: column;
+	}
+	
+	.page-id-38381 #about-discover-section .sub-title-wrapper {
+		text-align: center;
+	}
+	
+	.page-id-38381 .cards-container .item {
+		flex: 1 1 calc(50% - 1rem);
+	}
+	
+	.page-id-38381 .study-image {
+		min-width: 100%;
+		max-width: 100%;
+	}
+	
+	.mission-section .study-layout,
+		.program-studies .study-layout {
+		flex-wrap: wrap !important;
+	}
+	
+	.detail-program .faculty-area {
+		--grid-columns: 1 !important;
+	}
+}
+
+/* Media Query: @media (max-width: 991px) */
+@media (max-width: 991px) {
+	.news-cards.owl-carousel {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 20px;
+	}
+}
+
+/* Media Query: @media (max-width: 900px) */
+@media (max-width: 900px) {
+	.research-section {
+		flex-direction: column;
+	}
+	
+	.research-image,
+		.research-content {
+		flex: none;
+		width: 100%;
+		padding: 32px 20px;
+	}
+	
+	.research-image img {
+		border-radius: 0;
+		width: 100%;
+	}
+	
+	.research-project-card {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+}
+
+/* Media Query: @media only screen and (max-width: 849px) */
+@media only screen and (max-width: 849px) {
+	.slide-sec.cmn-spacing-tb .slider-card-wrap {
+		flex-direction: column;
+		grid-template-columns: 1fr;
+		display: flex;
+	}
+	
+	.slide-sec .slider-card-wrap {
+		flex-direction: column;
+	}
+}
+
+/* Media Query: @media(max-width: 786px) */
+@media(max-width: 786px) {
+	.postid-6016 #cmpexmcell-custom-postions-list-tab .table-responsive {
+		padding: 0 !important;
+	}
+}
+
+/* Media Query: @media only screen and (max-width: 768px) */
+@media only screen and (max-width: 768px) {
+	.page-id-2565 .launch-sec-career .launch-contents .count-wrap {
+		padding-top: 2.5rem;
+		--grid-columns: 1;
+	}
+	
+	.program-studies .ai-sec .ai-box {
+		padding-bottom: 0rem;
+		background-image: none !important;
+		border-radius: 0rem;
+	}
+	
+	.page-id-5100 .pierc-btn {
+		flex-direction: column;
+		gap: 10px;
+		justify-content: center;
+	}
+	
+	.page-id-5100 .pierc-btn .p-btn-download {
+		padding: 10px;
+	}
+	
+	.page-id-24349 .mid-banner-sec .mid-banner-rgt ul {
+		flex-direction: column;
+		gap: 10px;
+	}
+	
+	.page-id-24349 .mid-banner-sec .mid-banner-rgt ul a.p-btn-download {
+		text-align: center;
+		padding: 10px 5px;
+		justify-content: center;
+	}
+	
+	.single-faculty .detail-program .program-tabs ul {
+		flex-direction: column;
+	}
+	
+	.experts-list .experts img {
+		width: 100%;
+		height: auto;
+		padding-right: 10px;
+	}
+	
+	.footer .footer-action {
+		margin-top: 1.5rem;
+		-ms-flex-pack: start;
+		justify-content: center;
+	}
+	
+	.faculty-content-column .image-card-white,
+		.faculty-content-column .image-card-dark {
+		min-height: 0 !important;
+	}
+	
+	.hilight-sec .carousal-card {
+		min-height: 0;
+	}
+	
+	.img-fluid {
+		max-width: 100%;
+		height: 100%;
+		object-fit: cover !important;
+	}
+	
+	.page-id-38381 .vision-section {
+		min-height: 485px;
+	}
+	
+	.page-id-38381 .president-section {
+		padding: 2.5rem 0 0 0;
+	}
+	
+	.page-id-38381 .study-layout {
+		gap: 2rem;
+	}
+	
+	.page-id-38381 .study-details {
+		max-width: 100%;
+	}
+	
+	.page-id-38381 #about-discover-section {
+		padding: 2.5rem 0;
+	}
+	
+	.page-id-38381 #about-discover-section .facility-card-content {
+		padding: 1rem;
+	}
+	
+	.page-id-38381 .excellence-area {
+		padding: 2.5rem 0;
+	}
+	
+	.page-id-38381 .excellence-area .highlight-content {
+		gap: 1.5rem;
+		padding-top: 2rem;
+	}
+	
+	.page-id-38381 .excellence-area .highlight-card {
+		min-width: 100%;
+		max-width: 100%;
+		border-left: none;
+		padding: 0;
+	}
+	
+	.page-id-38381 .excellence-area .highlight-head {
+		padding-top: 1.25rem;
+	}
+	
+	.page-id-38381 .excellence-area .highlight-card img {
+		min-width: 40px;
+		max-width: 40px;
+	}
+	
+	.page-id-38381 .launch-sec .point-wrap-2 {
+		padding-top: 3rem;
+		padding-bottom: 1.25rem;
+	}
+	
+	.page-id-38381 .employee-card {
+		padding: 1.5rem 1.5rem 0;
+	}
+	
+	.page-id-38381 .quote-block {
+		padding-top: 2rem;
+	}
+	
+	.page-id-38381 .vision-section .vision-detail-area {
+		padding: 3rem 0;
+	}
+	
+	.study-layout {
+		/*         gap: 2rem; */
+		flex-wrap: wrap !important;
+	}
+	
+	.count-wrap-3 .count-3 {
+		padding: 1.5rem 1rem !important;
+		margin: 0.5rem;
+		border-radius: 15px;
+		background-color: var(--text-blue);
+	}
+	
+	.page-id-9703 .hilight-sec .carousal-card {
+		display: none !important;
+	}
+}
+
+/* Media Query: @media (max-width:768px) */
+@media (max-width:768px) {
+	.doctoral-tab-menu {
+		flex-direction: column;
+		text-align: center;
+	}
+	
+	.child-container {
+		flex-direction: column;
+	}
+	
+	.child-left {
+		justify-content: center;
+	}
+	
+	.child-icon-box {
+		width: 100%;
+		max-width: 300px;
+	}
+	
+	.sub-child-container {
+		width: 100%;
+	}
+	
+	.subtab-full-width ul li,
+		.docatoal_url {
+		width: 100% !important;
+	}
+	
+	.award-flip-card-grid {
+		flex-direction: column;
+		gap: 1rem;
+	}
+	
+	.flip-card {
+		width: 90vw;
+		height: 270px;
+		margin-bottom: 1rem;
+	}
+	
+	.flip-card-title {
+		font-size: 1rem;
+	}
+	
+	.flip-card-img {
+		width: 60px;
+		height: 60px;
+	}
+	
+	.page-id-39407 #overview {
+		padding: 40px 0;
+	}
+	
+	.page-id-39407 .study-layout {
+		gap: 1.5rem;
+	}
+	
+	.page-id-39407 .study-layout .study-details .study-list {
+		row-gap: 1.5rem;
+	}
+	
+	.page-id-39407 .study-layout .study-details .study-list .study-box {
+		max-width: 100%;
+	}
+	
+	.page-id-39407 .study-layout .study-image img {
+		width: 100%;
+		object-fit: cover;
+	}
+	
+	.page-id-39407 .excellence-area {
+		padding: 2.5rem 0;
+	}
+	
+	.page-id-39407 .excellence-area .highlight-content {
+		gap: 1.5rem;
+		padding-top: 2rem;
+	}
+	
+	.page-id-39407 .excellence-area .highlight-card {
+		flex: 1 1 100%;
+		max-width: 100%;
+		border-left: none;
+		padding: 0;
+	}
+	
+	.page-id-39407 .excellence-area .highlight-card img {
+		width: 60px;
+		height: 60px;
+	}
+	
+	.page-id-2585 .professors-lists {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* Media Query: @media (max-width: 767px) */
+@media (max-width: 767px) {
+	.research-project-card {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+	.research-project-card .item {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	
+	.contact-info-list li span {
+		width: 4rem !important;
+		height: 4rem;
+		justify-content: center;
+	}
+	
+	.contact-info-list li:nth-child(2) span img,
+		.contact-info-list li:nth-child(3) span img {
+		width: 100% !important;
+	}
+	
+	.page-id-7897 .u-section-title {
+		font-size: 1.3rem;
+	}
+	
+	.page-id-7897 .fixed-height-fill {
+		min-height: 150px;
+	}
+	
+	.page-id-7897 .col-md-4 {
+		width: 95%;
+	}
+	
+	.page-id-7897 .u-card-row {
+		flex-direction: column;
+	}
+	
+	.page-id-7897 .cols-cmn-padding {
+		padding: 10px;
+	}
+	
+	#block-south-zone .queries-box.grey-box .queries-details {
+		width: 100% !important;
+		min-height: auto !important;
+	}
+	
+	.news-cards.owl-carousel {
+		grid-template-columns: 1fr;
+		gap: 16px;
+	}
+}
+
+/* Media Query: @media only screen and (max-width : 767px) */
+@media only screen and (max-width : 767px) {
+	.enquiry-btn-mobile {
+		position: fixed;
+		top: 40%;
+		right: 0;
+		background: #FFC800;
+		/* Yellow */
+		color: #000;
+		padding: 15px 18px;
+		border-radius: 8px 0 0 8px;
+		/* Left rounded only */
+		writing-mode: vertical-rl;
+		/* Vertical text */
+		text-orientation: mixed;
+		font-weight: 700;
+		cursor: pointer;
+		border: none;
+		z-index: 9999;
+		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+	}
+	
+	/* Center popup styling */
+		#mobile-enquiry-form {
+		position: fixed;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%) scale(0.7);
+		width: 90%;
+		max-width: 400px;
+		background: #fff;
+		border-radius: 18px;
+		padding: 25px;
+		z-index: 10000;
+		box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
+		opacity: 0;
+		pointer-events: none;
+		transition: all 0.3s ease;
+	}
+	
+	/* When active */
+		#mobile-enquiry-form.active {
+		opacity: 1;
+		transform: translate(-50%, -50%) scale(1);
+		pointer-events: auto;
+	}
+	
+	/* Close button */
+		.close-form {
+		font-size: 26px;
+		font-weight: 700;
+		cursor: pointer;
+		float: right;
+	}
+	
+	.popup-overlay {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(0, 0, 0, 0.55);
+		z-index: 9998;
+		display: none;
+	}
+	
+	.btn-div {
+		flex-direction: column !important;
+	}
+	
+	.single-news_and_awards .blog-content-inner {
+		-ms-flex-direction: column;
+		flex-direction: column;
+	}
+	
+	.banner-sec-home {
+		background-image: url('../images/University-lp-mobile-final-scaled.jpg') !important;
+		height: 80vh !important;
+	}
+	
+	.committee-list {
+		grid-template-columns: 1fr !important;
+	}
+	
+	.page-id-24400 .committee-block-img {
+		height: 350px !important;
+	}
+}
+
+/* Media Query: @media (max-width: 680px) */
+@media (max-width: 680px) {
+	.cf7-modal {
+		max-width: 95vw;
+		padding: 15px 8px;
+	}
+}
+
+/* Media Query: @media (max-width: 600px) */
+@media (max-width: 600px) {
+	.pu-expert-card {
+		flex-direction: column;
+		text-align: center;
+	}
+	
+	.pu-expert-photo img {
+		width: 140px;
+		height: 140px;
+		margin: 16px auto 0;
+	}
+	
+	.pu-expert-id {
+		position: static;
+		display: inline-block;
+		margin-top: 8px;
+	}
+}
+
+/* Media Query: @media only screen and (max-width: 586px) */
+@media only screen and (max-width: 586px) {
+	.page-id-38381 .vision-section .vision-detail-area .sub-title-desc {
+		max-width: 400px;
+	}
+	
+	.page-id-38381 #about-discover-section .sub-title-wrapper {
+		text-align: left;
+	}
+	
+	.page-id-38381 #about-discover-section .facility-card {
+		border-radius: 0.75rem;
+	}
+	
+	.page-id-38381 .cards-container .item {
+		flex: 1 1 100%;
+	}
+	
+	.professionals-card-section .experts-list {
+		--grid-gap: 35px;
+	}
+	
+	.employee-card-wrap .human-card-wrapper {
+		grid-gap: 25px;
+		--grid-columns: 1 !important;
+	}
+	
+	.possibilities-button-wrapper {
+		display: flex;
+		justify-content: center;
+	}
+	
+	.apply-sec .student-card {
+		min-height: 0;
+	}
+	
+	.facility-sec .owl-item {
+		width: 300px;
+	}
+	
+	.include-exclude-list {
+		margin-top: 2rem;
+	}
+	
+	.include-exclude-box {
+		padding: 2rem;
+	}
+	
+	.sub-title-lg {
+		padding-block: 1rem;
+	}
+	
+	.pt-56 {
+		padding-top: 1.5rem !important;
+	}
+	
+	.excellence-area .fashion-card {
+		border-radius: 16px;
+		height: 450px;
+	}
+	
+	.slider-card-content-desc {
+		font-size: 0.8rem;
+	}
+	
+	.sub-title-desc {
+		font-size: 1.15rem;
+	}
+	
+	.image-info-sec .image-info-card {
+		height: 400px;
+	}
+	
+	.sub-title-lg.font-head-xxl {
+		font-size: 2.5rem;
+	}
+	
+	.sub-title-lg.font-head-xxl span {
+		font-size: 2.5rem;
+	}
+	
+	.infrastructure-content-title.font-head-sm {
+		font-size: 1.5rem;
+		margin-top: 0.8rem;
+	}
+	
+	.realted-links-area .link-head {
+		padding: 10px;
+	}
+	
+	.international-card.blue-box {
+		min-height: 220px;
+	}
+	
+	/* 	research & development center */
+		.excellence-tabs .excellence-tab-content .tab-vertical-wrapper .accordion-item .accordion-body {
+		padding: 1.5rem 0 1rem;
+	}
+	
+	.program-detail-area {
+		gap: 0;
+	}
+	
+	.tab-desc-area h3,
+		.tab-desc-area p:first-of-type {
+		display: none;
+	}
+	
+	.explore-area.explore-area-two .explore-box:last-child {
+		margin-bottom: 0;
+	}
+	
+	.explore-area .explore-box .explore-text .text-title {
+		padding-bottom: 0 !important;
+	}
+	
+	.launch-sec.launch-sec-home-2 .count-wrap {
+		padding: 2rem 0 1rem;
+	}
+	
+	.explore-area {
+		--grid-gap: 18px;
+	}
+	
+	.grid-sec.cmn-spacing-bottom .grid-features {
+		padding: 2rem 0 0 0;
+	}
+	
+	/* 	international realtions */
+	
+		.dropdown-select-wrapper .dropdown-btn {
+		padding: 16px 0;
+	}
+	
+	.filter-expand-wrapper {
+		gap: 1.25rem;
+		margin-bottom: 0;
+	}
+	
+	.detail-program-center {
+		padding: 3rem 0 0 0;
+	}
+	
+	.international-section .international-card {
+		min-height: 0;
+	}
+	
+	.international-card-wrapper {
+		gap: 1.5rem;
+		/* padding-block */
+	}
+	
+	/* 	international-admissions */
+	
+		.hilight-sec .carousal-card {
+		min-height: 0;
+		display: none;
+	}
+	
+	.facility-sec .sub-title-wrapper {
+		text-align: left;
+	}
+	
+	.scholarship-area .scholar-area .scholarship-images .scholar-cards .card-content {
+		padding-block: 1.875rem;
+	}
+	
+	.experts .sub-title-wrapper .sub-title-desc {
+		text-align: left;
+	}
+	
+	.industry-section h2 {
+		padding-bottom: 1.5rem !important;
+	}
+	
+	/* 	.apply-sec .student-card-img-wrap img {
+		max-height: 0;
+	}
+	
+	*/
+	
+		.apply-sec .student-card {
+		min-height: 35.625rem;
+	}
+	
+	/* 	international-collaborations-and-mous */
+	
+		.content-section.cmn-spacing-tb {
+		padding: 2rem 0;
+	}
+	
+	/* 	domestic-students-fees-structure */
+	
+		.filter-badge-wrapper .tags {
+		display: none;
+	}
+	
+	.filter-badge-wrapper.mt-16 {
+		display: none;
+	}
+	
+	/* 	international-students-fees-structure */
+	
+		.program-detail-area {
+		gap: 20px;
+	}
+	
+	/* 	dhoom */
+	
+	
+		.slider-card-content-desc {
+		font-size: 1.3rem;
+	}
+	
+	.contact-detail-sub-text {
+		font-size: 2rem !important;
+	}
+	
+	/* 	placements-industry/placement-records */
+	
+		.slideDetail img {
+		margin: auto;
+	}
+	
+	#recruiters {
+		padding: 3rem 0 1.5rem;
+	}
+	
+	.program-studies.tech-companies {
+		padding: 1rem 0 !important;
+	}
+	
+	.certifications-sec .study-head .sub-title-lg {
+		padding-top: 0rem;
+	}
+	
+	/* 	campus-life/upcoming-programs/ */
+	
+		.content-section.cmn-spacing-top {
+		padding-top: 1rem;
+	}
+	
+	/*  centres-departments/social-responsive-cell	 */
+	
+		.slider-tabs-nav {
+		padding-inline: 0.5rem;
+	}
+	
+	/* 	blogs */
+	
+	
+		.faculty-area.blog-card-list {
+		grid-gap: 1.5rem;
+	}
+	
+	.detail-program.cmn-spacing-tb {
+		padding-top: 3rem;
+	}
+	
+	/* 	pierc/ */
+	
+		.slide-sec-colored .slide-cards-wrapper .slider-card-row .slider-card {
+		min-height: 190px;
+		max-height: 190px;
+	}
+	
+	.study-head .study-sub-head.pb-16 {
+		padding-bottom: 1.5rem !important;
+	}
+	
+	.related-links-area {
+		padding-block: 1.5rem;
+	}
+	
+	.ranking-sec .ranking-card-wrap .ranking-card-rgt .owl-nav {
+		bottom: -65px;
+		left: 22px;
+	}
+	
+	.hilight-sec .sub-title-lg.font-head-xxl {
+		font-size: 1.5rem;
+	}
+	
+	.iqac-content-column {
+		grid-gap: 25px;
+	}
+	
+	.image-card .image-card-body {
+		padding: 1rem;
+	}
+	
+	.image-card .image-card-body h5 {
+		font-size: 1.5rem;
+		padding-bottom: 0.8rem;
+	}
+	
+	.p-btn-download {
+		padding: 0 10px;
+	}
+	
+	.mid-banner-desc.pb-24 {
+		padding-bottom: 0 !important;
+	}
+	
+	/* 	scholarships-at-pu/ */
+	
+		.excellence-area .container .university-highlights {
+		padding: 1rem;
+	}
+	
+	/* parul-institute-of-design/	 */
+	
+		.design-sec .education-tabs .education-tabs-nav .nav.nav-pills.tab-layout-2 {
+		margin-inline: 0;
+	}
+	
+	.explore-sec .explore-img-wrapper .explore-card+.explore-card {
+		width: 100%;
+	}
+	
+	.explore-card .explore-card-img {
+		width: 100%;
+	}
+	
+	.leading-sec .sub-title-container {
+		padding-block: 1rem;
+	}
+	
+	.sub-title-container .sub-title-span {
+		font-size: 2rem;
+	}
+	
+	.live-design-sec {
+		padding-top: 3rem;
+	}
+	
+	.live-design-sec .slide-cards-wrapper .slider-card-wrap .slider-card {
+		min-height: 320px;
+		max-height: 320px;
+	}
+	
+	.slider-card-wrap .slider-card .slider-card-icon {
+		margin: 2rem;
+	}
+	
+	.masterclasses-sec.cmn-spacing-tb {
+		padding: 1rem 0 2rem;
+	}
+	
+	.masterclasses-card-wrapper .masterclasses-card .masterclasses-bg-img {
+		min-height: 480px;
+	}
+	
+	/* 	iqac-page/ */
+	
+		.content-section .container .iqac-quick-links .nav.nav-pills.tab-layout-2 {
+		padding-bottom: 0;
+	}
+	
+	/* 	academics/teaching-practices/ */
+	
+		.realted-links-area .related-boxes .box-areas {
+		align-items: center;
+	}
+	
+	.industry-section {
+		padding-top: 1rem;
+	}
+	
+	.accordian-drop-down {
+		padding-block: 1.2rem;
+	}
+	
+	/* 	academics/examination-schedules-notifications/ */
+	
+		.accordion .accordion-item .accordion-button {
+		align-items: center;
+	}
+	
+	/* 	academics/pu-libraries/ */
+	
+		.page-id-2585 .realted-links-area {
+		margin-top: 0;
+		padding-bottom: 50px;
+	}
+	
+	.contact-info-wrapper.row-gap-8,
+		.contact-info-lists.row-gap-8 {
+		row-gap: 1rem !important;
+	}
+	
+	/* 	academics/faculties-institutes/ */
+	
+		.realted-links-area .related-boxes .box-areas .box-data {
+		gap: 1rem;
+	}
+	
+	.explore-sec-info-wrapper .sub-title-wrapper {
+		max-width: 100%;
+	}
+	
+	/* 	admission/inbound-faculty-mobility-programs/ */
+	
+	
+		.detail-program-center {
+		padding: 0rem 0 0 0;
+	}
+	
+	.faculty-area {
+		--grid-gap: 18px;
+	}
+	
+	/* 	living at pu */
+	
+	
+		.detail-program-center .sub-title-wrapper {
+		padding-bottom: 0rem;
+	}
+	
+	.university-highlights .highlight-content .highlight-card {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 0.5rem;
+	}
+	
+	.university-highlights .highlight-content .highlight-card .font-box-heading {
+		padding-top: 0 !important;
+	}
+	
+	.hassle-free-sec .highlight-content .highlight-card img {
+		min-width: 55px;
+		max-width: 55px;
+	}
+	
+	/* admission/life-at-pu/	 */
+	
+		.point-wrap-2.pb-20 {
+		padding-bottom: 1.5rem !important;
+	}
+	
+	.slide-sec .slide-title.sub-title-lg.font-head-xxl,
+		.slide-sec .cmn-span-clr.font-head-xxl {
+		font-size: 2.5rem;
+	}
+	
+	.mid-banner-sec-wrapper {
+		padding: 1rem;
+	}
+	
+	.fresher-festival-sec .sub-title-lg.font-head-xxl,
+		.fresher-festival-sec .font-head-xxl.font-weight-900 {
+		font-size: 1.5rem;
+	}
+	
+	/* 	sports at pu */
+	
+	
+		.mid-banner-sec .mid-banner-desc {
+		padding-bottom: 1.5rem !important;
+	}
+	
+	/* admission/all-programs/	 */
+	
+	
+		.banner-sec {
+		padding-top: 5.5rem;
+	}
+	
+	.scholarship-area .scholar-area .scholarship-images .scholar-cards {
+		margin-bottom: 1.5rem;
+	}
+	
+	/* 	about us */
+	
+		.content-section.cmn-spacing-tb {
+		padding: 2rem 0 0;
+	}
+	
+	.slider-card-wrap .slider-card .slider-card-top {
+		margin: 2rem;
+	}
+	
+	.program-studies.cmn-spacing-tb {
+		padding: 1rem 0 3rem;
+	}
+	
+	.slider-card-content h4 {
+		font-size: 1.7rem;
+	}
+	
+	/* about-us/recognitions-accreditations-approvals-notifications/	 */
+	
+		.content-section .program-detail-area h2,
+		.content-section .program-detail-area span {
+		font-size: 2.2rem;
+	}
+	
+	.explore-area-bg-white {
+		padding-bottom: 2rem;
+	}
+	
+	.content-section.cmn-spacing-tb {
+		padding: 2rem 0;
+	}
+	
+	/* 	about-us/pu-infrastructure/ */
+	
+	
+		.infrastructure-right {
+		gap: 3rem;
+	}
+	
+	/* 	about-us/pu-advantage/ */
+	
+		.experience-section.cmn-spacing-tb {
+		padding: 3rem 0 0;
+	}
+	
+	.program-detail-area h2 {
+		padding-block: 0;
+	}
+	
+	.tab-layout-2 .nav-link.active {
+		word-wrap: break-word;
+		max-width: 100%;
+	}
+	
+	/* 	about-us/awards-rankings-ratings/ */
+	
+	
+		.recognitions-tabs #pills-tab {
+		max-width: 100%;
+		word-wrap: break-word;
+		margin: auto;
+	}
+	
+	.recognitions-tabs #pills-tab .nav-item {
+		max-width: 100%;
+		word-wrap: break-word;
+	}
+	
+	/* leadership	 */
+	
+	
+		.committee-block {
+		gap: 1.5rem;
+	}
+	
+	.committee-block-img {
+		height: 100%;
+	}
+	
+	/* 	about-us/campus/ */
+	
+		.campus-loc-section .container .campus-loc-area .sub-title-wrapper h2 {
+		padding-block: 0;
+	}
+	
+	.study-layout .study-details .study-list .study-box {
+		gap: 1.2rem;
+	}
+	
+	.study-layout .study-details .study-list .study-box-icon {
+		min-width: 50px;
+		max-width: 50px;
+	}
+	
+	/* 	Home page */
+	
+	
+		.launch-sec .point-wrap-3 {
+		flex-direction: row;
+		align-items: center;
+	}
+	
+	.launch-sec .count .blue-span-text {
+		padding-block: 1.5rem;
+		max-width: 100%;
+	}
+	
+	.alumni-card .slide-content {
+		padding: 1.7rem;
+	}
+	
+	.alumislider .pb-8 {
+		padding-bottom: 1.5rem !important;
+	}
+	
+	.alumislider .pt-12 {
+		padding-top: 1.2rem !important;
+	}
+	
+	.point-wrap-2.pb-20 {
+		flex-direction: row;
+	}
+	
+	.launch-sec-home-3 .count-wrap {
+		--grid-gap: 60px;
+	}
+	
+	.launch-sec .point-wrap {
+		flex-direction: row;
+	}
+	
+	.startup-wrapper .startup-card-contents {
+		padding-block: 1rem;
+	}
+	
+	.startup-wrapper .startup-card {
+		gap: 1.5rem;
+	}
+	
+	.apply-sec p.pb-40 {
+		padding-bottom: 1rem !important;
+	}
+	
+	/* 	faculty of engineering and technology */
+	
+	
+		.detail-program.cmn-spacing-tb {
+		padding-top: 2rem;
+	}
+	
+	.get-to-know .get-content {
+		gap: 1rem;
+	}
+	
+	.font-box-title {
+		margin-top: 0 !important;
+	}
+	
+	.launch-sec .count-wrap {
+		grid-gap: 0.5rem !important;
+	}
+	
+	.count-wrap.count-wrap-2 {
+		grid-gap: 2.5rem !important;
+	}
+	
+	.explore-area.explore-area-bg-white {
+		pointer-events: none;
+		cursor: default;
+		text-decoration: none;
+	}
+	
+	.more-events .event-cards .main-card {
+		margin-bottom: 15px;
+	}
+	
+	.banner-title.font-head-xxl.font-color-white.font-weight-900 {
+		font-size: 2rem;
+	}
+}
+
+/* Media Query: @media (max-width: 576px) */
+@media (max-width: 576px) {
+	.page-id-39407 .excellence-area h2 {
+		font-size: 1.75rem;
+	}
+	
+	.page-id-39407 .excellence-area .sub-title-desc {
+		font-size: 0.95rem;
+	}
+	
+	.page-id-39407 .sub-title-wrapper h2 {
+		font-size: 1.75rem;
+	}
+	
+	.page-id-39407 .study-sub-head {
+		font-size: 1.2rem;
+	}
+	
+	.page-id-39407 .study-layout .study-details .study-list {
+		row-gap: 1rem;
+	}
+	
+	.page-id-35801 .pu_gallary_page_mosaic_grid {
+		column-count: 1;
+	}
+}
+
+/* Media Query: @media (max-width : 567px) */
+@media (max-width : 567px) {
+	.page-id-2585 .professors-lists .list-img img {
+		width: 200px;
+		height: auto;
+	}
+}
+
+/* Media Query: @media only screen and (max-width: 520px) */
+@media only screen and (max-width: 520px) {
+	.slide-sec-colored .slider-card-wrap .slider-card .slider-card-icon {
+		min-width: 35px;
+	}
+	
+	.slider-card-content h4 {
+		font-size: 1.5rem;
+	}
+	
+	.explore-area .explore-box {
+		min-height: unset;
+		/* or: min-height: auto; */
+		height: auto;
+		/* allow content to determine height */
+		padding: 12px;
+		/* reduce padding if needed */
+		gap: .5rem;
+		/* reduce gap for compact layout */
+	}
+	
+	.study-layout .study-list .study-box>img.img-fluid {
+		height: auto !important;
+		width: auto !important;
+		max-width: 100% !important;
+		object-fit: contain !important;
+	}
+}
+
+/* Media Query: @media (max-width: 480px) */
+@media (max-width: 480px) {
+	body {
+		padding: 0 !important;
+	}
+	
+	.doctoral-tab-item {
+		padding: 8px 12px;
+		font-size: 14px;
+	}
+	
+	.child-icon-box {
+		padding: 15px;
+		font-size: 14px;
+	}
+	
+	.child-tab-title {
+		padding: 8px;
+		font-size: 14px;
+	}
+}
+
+/* Media Query: @media only screen and (max-width : 480px) */
+@media only screen and (max-width : 480px) {
+	/* 	international-admissions */
+	
+	#resources .facility-card-content .facility-card-desc {
+		font-size: 0.8rem !important;
+		line-height: 1.1;
+	}
+	
+	#resources .facility-card-content .facility-card-title {
+		font-size: 1rem !important;
+		padding-top: 0.8rem !important;
+	}
+	
+	/* 	about-us */
+		#about-discover-section h2.sub-title-lg {
+		font-size: 2rem !important;
+	}
+	
+	#about-discover-section h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	.content-section .tab-desc-area {
+		padding-top: 1rem;
+	}
+	
+	/* pu advantage */
+	
+		.content-section,
+		.industry-section {
+		h2.sub-title-lg,
+		h2.sub-title-lg span {
+		font-size: 2rem !important;
+		}
+	}
+	
+	.launch-sec-career .launch-title,
+		.launch-sec-career .launch-title span {
+		font-size: 2rem !important;
+	}
+	
+	.slide-sec {
+		padding: 0 0 2rem 0 !important;
+	}
+	
+	.recognitions-sec .recognitions-tabs .tab-content {
+		padding: 0 !important;
+	}
+	
+	/* awards rankings and ratings */
+	
+		.recognitions-sec .flip-card {
+		width: 100% !important;
+		height: 360px;
+	}
+	
+	.flip-card-img {
+		width: 100% !important;
+		height: 200px !important;
+	}
+	
+	.flip-card-front,
+		.flip-card-back {
+		justify-content: space-around !important;
+	}
+	
+	/* recognitions and accrediations */
+	
+	
+		.content-section h2.font-head-xxl.cmn-span-clr {
+		font-size: 2rem !important;
+	}
+	
+	/* pu campus */
+		.campus-loc-section .slider-card-wrap .slider-card {
+		min-height: 100% !important;
+	}
+	
+	.campus-loc-section .slider-card-wrap .slider-card-img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		display: block;
+	}
+	
+	.campus-loc-section .sub-title-lg,
+		.campus-loc-section .sub-title-lg span {
+		padding-top: 2rem !important;
+		font-size: 2rem !important;
+	}
+	
+	.slide-title.sub-title-lg,
+		.slide-title.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	.sub-title-lg,
+		.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	/* sakshamta foundation */
+	
+		.social-service-sec {
+		padding-block: 2rem !important;
+	}
+	
+	.need-help-sec .contact-detail-wrapper {
+		padding-left: 0 !important;
+	}
+	
+	.full-banner .full-banner-title {
+		font-size: 2rem !important;
+	}
+	
+	/* life at pu */
+	
+	
+		.apply-sec.activities-sec .student-card-img {
+		height: 100% !important;
+	}
+	
+	#concerts .student-card {
+		min-height: 0rem !important;
+	}
+	
+	.excellence-area .university-highlights .highlight-head {
+		padding-top: 0 !important;
+	}
+	
+	.excellence-area .container .university-highlights {
+		padding: 0 !important;
+	}
+	
+	.program-studies .study-layout .study-details .study-head p {
+		text-align: left !important;
+		max-width: 100% !important;
+	}
+	
+	/* academics overview */
+	
+		.university-highlights .highlight-content .highlight-card {
+		gap: 1.5rem;
+	}
+	
+	.facility-sec .sub-title-wrapper p.sub-title-desc {
+		text-align: left;
+	}
+	
+	/* examinations */
+	
+		.exam-schedules-tab-content p.font-body-medium.mt-16 {
+		margin-top: 0 !important;
+		margin: 0.8rem !important;
+	}
+	
+	.exam-schedules-tab-content .tablerounededCorner.table-link {
+		max-width: 100%;
+	}
+	
+	.tablerounededCorner {
+		border-radius: .75rem !important;
+	}
+	
+	/* 	research and development center */
+		.program-page .tab-desc-area {
+		padding-block: 1rem !important;
+	}
+	
+	#no-bg-with-card .count-wrap {
+		justify-items: normal !important;
+	}
+	
+	/* student services */
+	
+		.slide-sec .sub-title-wrapper {
+		padding-block: 2rem !important;
+	}
+	
+	.slide-sec .slider-card-wrap .slider-card {
+		min-height: 100% !important;
+	}
+	
+	.slide-sec .slider-card-content-desc {
+		font-size: 1.3rem !important;
+	}
+	
+	/* 	teaching practices */
+		.assessment-area .sub-title-wrapper {
+		text-align: left !important;
+	}
+	
+	.assessment-area .sub-title-wrapper .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	/* student welfare */
+	
+		.image-info-sec .image-info-content-title {
+		font-size: 1.5rem !important;
+	}
+	
+	/* 	professor of practice */
+	
+		#block-tabContent-faculty_tabs_1 {
+		padding: 0 !important;
+	}
+	
+	.professors-tab-content h2.cmn-span-clr {
+		font-size: 2rem !important;
+	}
+	
+	.professors-lists .list-img {
+		margin: auto;
+	}
+	
+	/* pu libraries */
+		.launch-sec .launch-desc {
+		text-align: left !important;
+	}
+	
+	.libraries-card-sec .sub-title-desc,
+		.digital-library-sec .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	.explore-sec .cmn-span-clr {
+		font-size: 2rem !important;
+		padding-bottom: 0;
+	}
+	
+	.detail-program.detail-program-center.cmn-spacing-tb {
+		padding-bottom: 3.5rem !important;
+	}
+	
+	/* admission - diploma */
+	
+		.slide-sec.slide-sec-colored {
+		padding-top: 2rem !important;
+		padding-bottom: 4rem !important;
+	}
+	
+	/* academics - post doctoral program */
+	
+	
+		.doctoral-tabs-wrapper,
+		.doctoral-tab-menu {
+		padding-block: 2.5rem !important;
+	}
+	
+	/* academics - industry embedded */
+	
+		.detail-program-center {
+		padding: 2rem 0;
+	}
+	
+	.detail-program-center h2 {
+		text-align: center !important;
+	}
+	
+	/* admission - pathway program */
+	
+		.slide-sec.cmn-spacing-tb.cmn-bg-grey.slide-sec-colored .slider-card {
+		max-height: 200px !important;
+	}
+	
+	.slide-sec.cmn-spacing-tb.cmn-bg-grey.slide-sec-colored .slider-card-content-desc {
+		font-size: 1.1rem !important;
+	}
+	
+	/* 	admission - admission offices */
+	
+	
+		.page-id-2427 .tab-content {
+		padding: 0 !important;
+	}
+	
+	/* admission - living at pu	 */
+	
+	
+		.faculty-area .faculty-details {
+		max-width: 338px !important;
+		margin-top: 2.25rem !important;
+	}
+	
+	.faculty-area {
+		--grid-gap: 40px !important;
+	}
+	
+	.detail-program.detail-program-center .faculty-box>img {
+		height: auto !important;
+	}
+	
+	/* 	training and placement cell */
+	
+	
+		.page-id-24400 .cmn-spacing-tb.cmn-bg-grey .brand-list .brand-img img {
+		max-height: 110px !important;
+		width: auto;
+	}
+	
+	.page-id-24400 .cmn-spacing-tb.cmn-bg-grey .brand-list {
+		gap: 16px !important;
+	}
+	
+	.page-id-24400 .launch-sec.counter.cmn-bg-grey .count-wrap {
+		gap: 3.5rem !important;
+	}
+	
+	/* placement events */
+		.page-id-24345 .slidesec.placement-event-sec .container .placement-grid .placement-thumb {
+		width: 100% !important;
+	}
+	
+	.page-id-24345 .program-page .tab-desc-area {
+		padding: 0 !important;
+	}
+	
+	/* 	our leading recruiters */
+	
+	
+		.page-id-24479 .cmn-spacing-tb.cmn-bg-grey .brand-list.mt-md-64.mt-40 {
+		gap: 50px 16px !important;
+	}
+	
+	.page-id-24479 #quick_links_placement .tab-desc-area {
+		display: none !important;
+	}
+	
+	/* placement policy */
+	
+		.page-id-26696 #quick_links_placement .tab-desc-area {
+		display: none !important;
+	}
+	
+	.page-id-26696 .page-banner {
+		padding-block: 65px 20px !important;
+	}
+	
+	/* PIERC */
+	
+	
+		.page-id-5100 .ranking-sec#achievements {
+		padding: 4rem 0 6rem 0 !important;
+	}
+	
+	.hilight-sec .scroll-cards .scroll-card-img {
+		overflow: visible !important;
+	}
+	
+	.page-id-5100 #initiatives .sub-title-wrapper .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	/* student mobility */
+	
+		.page-id-24503 .detail-program.detail-program-center .d-flex.justify-content-center.align-content-center.gap-4 {
+		flex-direction: column !important;
+	}
+	
+	.page-id-24503 #features-benefits {
+		padding: 3rem 0 0 0 !important;
+	}
+	
+	.page-id-24348 .excellence-area .sub-title-lg {
+		margin-bottom: 0 !important;
+	}
+	
+	.page-id-24348 .excellence-area {
+		padding-top: 3rem !important;
+		padding-bottom: 4rem !important;
+	}
+	
+	.page-id-24348 .facility-sec {
+		padding-block: 3rem !important;
+	}
+	
+	/* collabrative research */
+	
+		.page-id-25630 .content-section {
+		display: none !important;
+	}
+	
+	.page-id-25630 .facility-sec {
+		padding: 1rem 0 3rem 0 !important;
+	}
+	
+	/* international visiting professor programme */
+	
+	
+		.page-id-24349 .slide-sec .slider-card-content-desc {
+		font-size: 1rem !important;
+	}
+	
+	/* faculty - Agriculture */
+	
+	
+		.pu-expert-card {
+		width: 100% !important;
+	}
+	
+	.pu-expert-name {
+		margin: auto !important;
+		margin-bottom: 1rem !important;
+	}
+	
+	.pu-expert-tags {
+		justify-content: center;
+	}
+	
+	/* 	blogs/mirror */
+	
+		.page-id-5622 .detail-program .blog-card-list-items img.wp-post-image {
+		height: auto !important;
+	}
+	
+	/* campus life at pu */
+	
+	
+		.page-id-25572 .launch-sec.launch-sec-home-2 .count-wrap {
+		padding: 2rem 0 1rem;
+		gap: 2rem !important;
+	}
+}
+
+/* Media Query: @media only screen and (max-width: 376px) */
+@media only screen and (max-width: 376px) {
+	/* 	overview section */
+	
+	.marquee-sec {
+		margin-top: 0 !important;
+	}
+	
+	.slide-sec-colored h2.slide-title,
+		.slide-sec-colored h2.slide-title span {
+		font-size: 2.2rem !important;
+	}
+	
+	/* 	leadership */
+	
+		section.committee-sec.cmn-spacing-top.cmn-spacing-bottom {
+		padding: 0 0 3rem 0 !important;
+	}
+	
+	.committee-sec h3.sub-title-lg,
+		.committee-sec h3.sub-title-lg span {
+		font-size: 2.2rem !important;
+	}
+	
+	/* vision and mission */
+	
+		.content-section .sub-title-wrapper h2.sub-title-lg {
+		padding-bottom: 1.5rem !important;
+	}
+	
+	/* 	pu advantage */
+	
+		.industry-section h2.sub-title-lg,
+		.industry-section h2.sub-title-lg span {
+		font-size: 2.2rem !important;
+	}
+	
+	.industry-section .accordian-head-desc,
+		.industry-section .accordian-head-desc p {
+		padding: 0 !important;
+	}
+	
+	.industry-section .accordian-content .accordian-desc .accordian-drop-down h4.accordian-head-desc {
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+	
+	.launch-contents-home-2 h2.sub-title-lg,
+		.launch-contents-home-2 h2.sub-title-lg span {
+		font-size: 2.2rem !important;
+	}
+	
+	.slide-sec>.container {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	
+	.slide-sec h2.sub-title-lg,
+		.slide-sec h2.sub-title-lg span {
+		font-size: 2.2rem !important;
+	}
+	
+	/* awards and rankings */
+	
+		.recognitions-sec h2.slide-title,
+		.recognitions-sec h2.slide-title span {
+		font-size: 2.2rem !important;
+	}
+	
+	.recognitions-sec .award-flip-card-wrapper {
+		padding-inline: 0 !important;
+	}
+	
+	.recognitions-sec .award-flip-card-wrapper .flip-card-img {
+		width: 100% !important;
+		height: 100% !important;
+		object-fit: cover !important;
+	}
+	
+	.recognitions-sec .award-flip-card-wrapper .flip-card {
+		width: 90vw !important;
+		height: 370px !important;
+		margin-bottom: 1rem !important;
+	}
+	
+	/* recognitions and accreditions */
+	
+		.content-section .program-detail-area h2.sub-title-lg,
+		.content-section .program-detail-area h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	.content-section.cmn-bg-grey>.container>h2,
+		.content-section.cmn-bg-grey>.container>h2 span {
+		font-size: 2rem !important;
+	}
+	
+	/* campus location */
+	
+		.campus-loc-section {
+		padding: 3rem 1rem !important;
+	}
+	
+	.campus-loc-section .slider-card-wrap .slider-card {
+		min-width: 18.75rem;
+		min-height: auto;
+	}
+	
+	.campus-loc-section .slider-card-wrap .slider-card-img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	
+	.about-us .sub-title-wrapper h2.sub-title-lg,
+		.about-us .sub-title-wrapper h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	.sub-title-lg.font-head-xxl {
+		font-size: 2rem !important;
+	}
+	
+	/* 	social responsive cell - sakshamta foundation */
+	
+		.slide-sec.slide-sec-colored {
+		padding-inline: 1rem !important;
+	}
+	
+	.social-service-sec {
+		padding-inline: 1rem !important;
+	}
+	
+	.social-service-sec .sub-title-wrapper h2,
+		.social-service-sec .sub-title-wrapper h2 span {
+		font-size: 2rem !important;
+	}
+	
+	#social-initiative-slider .sub-title-wrapper h2,
+		#social-initiative-slider .sub-title-wrapper h2 span {
+		font-size: 2rem !important;
+	}
+	
+	.need-help-sec .sub-title-wrapper h2,
+		.need-help-sec .sub-title-wrapper h2 span {
+		font-size: 2rem !important;
+	}
+	
+	.need-help-sec .contact-detail-wrapper {
+		padding-left: 0 !important;
+	}
+	
+	/* life at pu */
+	
+		.news-awards {
+		padding-block: 2rem !important;
+	}
+	
+	.news-awards h2.sub-title-lg {
+		font-size: 2rem !important;
+		line-height: 1.3;
+	}
+	
+	.news-awards h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	.apply-sec h2.sub-title-lg {
+		font-size: 2rem !important;
+		line-height: 1.1;
+		padding-block: 1rem !important;
+	}
+	
+	.apply-sec h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	#concerts .student-card {
+		min-height: 0rem !important;
+	}
+	
+	#about-discover-section h2,
+		#about-discover-section h2 span {
+		font-size: 2rem !important;
+		/*     line-height: 1.25; */
+	}
+	
+	.university-highlights .highlight-head {
+		padding-top: 0rem !important;
+	}
+	
+	.excellence-area .container .university-highlights {
+		padding: 0rem !important;
+	}
+	
+	.university-highlights .highlight-content .highlight-card img {
+		min-width: 60px;
+		max-width: 60px;
+		margin-block: 1rem;
+	}
+	
+	/* 	academic overview */
+	
+		#overview h2,
+		#overview h2 span {
+		font-size: 2rem !important;
+	}
+	
+	.apply-sec.concerts .know-more-area {
+		display: none !important;
+	}
+	
+	.excellence-area h2,
+		.excellence-area h2 span {
+		font-size: 2rem !important;
+	}
+	
+	.excellence-area .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	.facility-sec h2,
+		.facility-sec h2 span {
+		font-size: 2rem !important;
+	}
+	
+	/* 	research-and-development-centre */
+	
+		.program-page h2.sub-title-lg,
+		.program-page h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	section.program-page h2.sub-title-lg {
+		padding-bottom: 1.2rem !important;
+	}
+	
+	.launch-sec-program .launch-contents {
+		padding-bottom: 0 !important;
+	}
+	
+	.launch-sec .count-wrap {
+		padding-top: 0;
+	}
+	
+	#no-bg-with-card .count-wrap {
+		justify-items: left !important;
+	}
+	
+	/* student services */
+		section.cmn-spacing-tb.slide-sec {
+		padding-inline: 1rem !important;
+	}
+	
+	.slide-sec .slider-card-wrap .slider-card {
+		min-height: 100% !important;
+	}
+	
+	.slide-sec .slider-card-content-desc {
+		font-size: 1rem !important;
+	}
+	
+	/* student welfare */
+	
+		.get-to-know h2.sub-title-lg {
+		font-size: 2.2rem !important;
+	}
+	
+	.get-to-know h2.sub-title-lg span {
+		font-size: 2.2rem !important;
+	}
+	
+	.image-info-sec .image-info-content .font-head-xxl {
+		font-size: 2rem !important;
+		padding-bottom: 1rem !important;
+	}
+	
+	/* professors of practice */
+	
+		.professors-lists .list-content p {
+		text-align: left !important;
+	}
+	
+	/* 	faculties */
+		.explore-sec .explore-area .explore-box {
+		gap: 4.5rem !important;
+	}
+	
+	/* 	admission - diploma */
+	
+		.detail-program.detail-program-center.cmn-spacing-tb {
+		padding-bottom: 3.5rem !important;
+	}
+	
+	#scholar-card .scholarship-text h2.sub-title-lg,
+		#scholar-card .scholarship-text h2.sub-title-lg span {
+		font-size: 2rem !important;
+		margin-bottom: 2rem;
+	}
+	
+	.detail-program.detail-program-center .detail-title-head h2.sub-title-lg,
+		.detail-program.detail-program-center .detail-title-head h2.sub-title-lg span {
+		font-size: 2.2rem !important;
+	}
+	
+	.program-studies .study-head h2.sub-title-lg,
+		.program-studies .study-head h2.sub-title-lg span {
+		font-size: 2rem !important;
+		margin-top: 1.5rem;
+		margin-bottom: 1rem !important;
+	}
+	
+	.slide-sec .slide-title.sub-title-lg,
+		.slide-sec .slide-title.sub-title-lg .cmn-span-clr {
+		font-size: 2rem !important;
+	}
+	
+	.certifications-sec h2.sub-title-lg,
+		.certifications-sec h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	/* 	industry embedded */
+	
+		.detail-program-center {
+		padding: 1rem 0 !important;
+	}
+	
+	.slide-sec .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	/* pathway program */
+	
+		.country-list-sec h2.sub-title-lg,
+		.country-list-sec h2.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	.slide-sec.slide-sec-colored .slider-card-content-desc {
+		font-size: 1rem !important;
+	}
+	
+	.sub-title-lg,
+		.sub-title-lg span {
+		font-size: 2rem !important;
+	}
+	
+	.eligibility-sec .explore-area .explore-box {
+		padding: 20px !important;
+	}
+	
+	/* international admissions */
+	
+		.detail-program .explore-area .explore-box {
+		padding: 25px !important;
+	}
+	
+	.national-admission-offices .tab-content {
+		padding: 0 !important;
+	}
+	
+	/* living at pu */
+	
+		.faculty-area .faculty-details {
+		max-width: 338px !important;
+		margin-top: 2.25rem !important;
+	}
+	
+	.faculty-area {
+		--grid-gap: 40px !important;
+	}
+	
+	/* training and placement cell */
+	
+		.cmn-bg-grey .brand-list {
+		display: grid !important;
+		grid-template-columns: repeat(auto-fit, minmax(150px, 2fr)) !important;
+		gap: 32px 16px !important;
+	}
+	
+	.cmn-bg-grey .brand-list .brand-img img {
+		width: auto !important;
+		height: auto !important;
+		max-width: min(144px, 75%) !important;
+		max-height: 100% !important;
+	}
+	
+	.brand-list .brand-img {
+		min-height: 80px;
+		display: grid;
+		place-items: center;
+	}
+	
+	.launch-sec.cmn-bg-grey .count-wrap {
+		grid-gap: 3.5rem !important;
+	}
+	
+	.apply-sec .student-card-wrapper .item .student-card {
+		min-height: 33.625rem !important;
+	}
+	
+	.cmn-spacing-tb .brand-list .brand-img {
+		min-height: 80px;
+	}
+	
+	/* pierc */
+	
+		#achievements.cmn-bg-grey.cmn-spacing-tb {
+		padding: 4rem 0 6rem 0 !important;
+	}
+	
+	#overview .study-layout .study-details .study-head p {
+		max-width: 100% !important;
+		text-align: left;
+	}
+	
+	.hilight-sec .scroll-cards .scroll-card-img {
+		overflow: visible !important;
+	}
+	
+	/* internations relations */
+	
+		.detail-program.detail-program-center .accordion-course {
+		padding-inline: 0 !important;
+	}
+	
+	.detail-program.detail-program-center .faculty-box>img {
+		height: auto !important;
+	}
+	
+	section.detail-program.detail-program-center #program-results .faculty-area {
+		--grid-gap: 40px !important;
+	}
+	
+	.apply-sec.activities-sec .owl-carousel .owl-item img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	
+	.apply-sec.activities-sec .student-card-img {
+		height: 100% !important;
+	}
+	
+	/* student mobility programs */
+	
+		section.detail-program.detail-program-center.cmn-bg-grey .sub-title-wrapper .p-btn {
+		--btn-padding: 13px 10px;
+	}
+	
+	section#features-benefits .program-carousel.pb-56 {
+		padding-bottom: 0 !important;
+	}
+	
+	/* collarbrative research */
+	
+		#first-section .tab-desc-area p:first-of-type {
+		display: block;
+		margin-top: 1.5rem;
+	}
+	
+	/* international visiting professors */
+	
+		.slide-sec {
+		padding-inline: 15px;
+	}
+	
+	/* international admissions  */
+	
+		#resources .facility-card-content .facility-card-desc {
+		font-size: 0.8rem !important;
+		line-height: 1.1;
+	}
+	
+	#resources .facility-card-content .facility-card-title {
+		font-size: 1rem !important;
+		padding-top: 0.8rem !important;
+	}
+	
+	.launch-contents .launch-title {
+		padding-bottom: 0 !important;
+		font-size: 2.2rem;
+	}
+	
+	/* 	.launch-contents > p:first-of-type {
+		display: none !important;
+	}
+	
+	*/
+	
+	
+		/* Explore all programs */
+	
+		#all-course-finder .sub-title-desc {
+		text-align: left;
+	}
+	
+	/* living at pu */
+	
+		.infrastructure-img .infrastructure-image {
+		width: 100%;
+	}
+	
+	.launch-contents>p:first-of-type {
+		display: block;
+		text-align: left !important;
+	}
+	
+	/* blogs */
+	
+		.detail-program .blog-card-list-items img.wp-post-image {
+		height: auto !important;
+	}
+	
+	/* campus life at pu */
+	
+		.launch-sec-home-2 .count-wrap {
+		grid-gap: 1.5rem !important;
+	}
+	
+	/* sports with pu */
+	
+		.sports-scholarships {
+		padding-top: 1.5rem !important;
+	}
+	
+	.program-studies .sub-title-wrapper .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	/* faculty - agriculture */
+	
+		.detail-program .detail-title-head-set2 .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	.detail-program .tab-content {
+		padding: 0 !important;
+		margin-block: 1rem !important;
+	}
+	
+	#news-block .news-head-area .sub-title-desc {
+		text-align: left !important;
+	}
+	
+	.launch-sec-program .employee-card-wrap {
+		margin-top: 3rem !important;
+	}
+	
+	/* faculty - applied sciences */
+	
+		.facility-sec .pu-labs-carousel .facility-card.full-card {
+		box-shadow: none !important;
+	}
+	
+	#faculties .expert-details p.font-box-title {
+		text-align: left !important;
+	}
+	
+	/* faculty of education proposed */
+		.program-page .tab-desc-area>.container {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	
+	#Infrastructure>.row {
+		padding-block: 2rem;
+	}
+	
+	.program-page .tab-desc-area .nav.nav-pills {
+		padding: 0 !important;
+	}
+	
+	.program-page h2.sub-title-title {
+		font-size: 2rem !important;
+	}
+	
+	.program-page h2.sub-title-title span {
+		font-size: 2rem !important;
+	}
+}

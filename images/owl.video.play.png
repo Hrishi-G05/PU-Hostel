@@ -1,0 +1,971 @@
+<!DOCTYPE html><html lang="en-US" data-theme="theme-light"><head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P4TP4N6D');</script>
+<!-- End Google Tag Manager -->
+<!-- <title> wp_title('|', true, 'right'); 
+        bloginfo('name'); 
+</title>  -->
+<!-- <meta  bloginfo('charset'); > -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- SEO --> 
+<!--   <meta name="author" content="parul">
+<meta name="description" content="parul">
+ <meta name="keywords" content="parul">
+ -->
+  <!-- meta data preview image -->
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="300">
+  <meta property="og:image:height" content="300">
+  <meta property="og:image" content="https://www.paruluniversity.ac.in/wp-content/themes/parul/assets/images/metadata-preview.jpg">
+
+  <link rel="icon" type="image/png" href="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp" sizes="96x96">
+  <link rel="icon" type="image/svg+xml" href="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp">
+  <link rel="shortcut icon" href="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp">
+  <meta name="apple-mobile-web-app-title" content="parul">
+	<meta name="google-site-verification" content="n33m5KPv9_wPcc00DDulj2z0hB3LaSdXhQbszn1C9hs">
+  <link rel="manifest" href="https://www.paruluniversity.ac.in/wp-content/themes/parul/assets/images/site.webmanifest">
+	
+  <meta name="robots" content="noindex, nofollow">
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.6 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Page not found - Parul University</title>
+	<meta property="og:locale" content="en_US">
+	<meta property="og:title" content="Page not found - Parul University">
+	<meta property="og:site_name" content="Parul University">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/www.paruluniversity.ac.in\/#website","url":"https:\/\/www.paruluniversity.ac.in\/","name":"Parul University","description":"","publisher":{"@id":"https:\/\/www.paruluniversity.ac.in\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.paruluniversity.ac.in\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/www.paruluniversity.ac.in\/#organization","name":"Parul University","url":"https:\/\/www.paruluniversity.ac.in\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.paruluniversity.ac.in\/#\/schema\/logo\/image\/","url":"https:\/\/www.paruluniversity.ac.in\/wp-content\/uploads\/2025\/09\/Variant9.svg","contentUrl":"https:\/\/www.paruluniversity.ac.in\/wp-content\/uploads\/2025\/09\/Variant9.svg","width":117,"height":36,"caption":"Parul University"},"image":{"@id":"https:\/\/www.paruluniversity.ac.in\/#\/schema\/logo\/image\/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//api.fontshare.com">
+<link rel="alternate" type="application/rss+xml" title="Parul University » Feed" href="https://www.paruluniversity.ac.in/feed/">
+<link rel="alternate" type="application/rss+xml" title="Parul University » Comments Feed" href="https://www.paruluniversity.ac.in/comments/feed/">
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" media="all">
+<link rel="stylesheet" id="nbcpf-intlTelInput-style-css" href="../css/intlTelInput.min.css" media="all">
+<link rel="stylesheet" id="nbcpf-countryFlag-style-css" href="../css/countrySelect.min.css" media="all">
+<link rel="stylesheet" id="parul-style-css" href="../css/style.css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="../css/bootstrap.min.css" media="all">
+<link rel="stylesheet" id="fontshare-css" href="../css/css.css" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="../css/owl.carousel.min.css" media="all">
+<link rel="stylesheet" id="parul-main-css" href="../css/main.min.css" media="all">
+<link rel="stylesheet" id="custom-css-css" href="../css/custom.min.css" media="all">
+<link rel="stylesheet" id="responsive-custom-css" href="../css/responsive-custom.min.css" media="all">
+<script id="burst-timeme-js" async="" src="../js/timeme.min.js"></script>
+<link rel="https://api.w.org/" href="https://www.paruluniversity.ac.in/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.paruluniversity.ac.in/xmlrpc.php?rsd">
+
+<link rel="icon" href="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp" sizes="32x32">
+<link rel="icon" href="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp">
+<meta name="msapplication-TileImage" content="https://www.paruluniversity.ac.in/wp-content/uploads/2026/02/favicon.webp">
+<style id="wp-custom-css">
+.postid-6177 [data-bs-target="#pathway-program"], .postid-6177 #pathway-program{
+    display: none;
+}
+
+</style>
+</head>
+
+<body class="error404 wp-custom-logo wp-theme-parul hfeed" data-burst_id="0" data-burst_type="404">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4TP4N6D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header class="header" id="header">
+    <div class="container">
+      <div class="add-on-header">
+        
+        <div class="header-contact">
+          <a href="tel:18001231104" class="header-contact-number d-flex">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M12.6252 13.3307C11.5017 13.3307 10.3497 13.0494 9.16921 12.4867C7.98876 11.9241 6.8901 11.1341 5.87321 10.1167C4.86432 9.09984 4.07854 8.00317 3.51587 6.82673C2.95321 5.65029 2.67188 4.50051 2.67188 3.3774C2.67188 3.1774 2.73854 3.00851 2.87188 2.87073C3.00521 2.73295 3.17188 2.66406 3.37188 2.66406H5.02054C5.20187 2.66406 5.3601 2.72117 5.49521 2.8354C5.63032 2.94962 5.72165 3.09606 5.76921 3.27473L6.09988 4.86406C6.13099 5.05073 6.12543 5.21362 6.08321 5.35273C6.04099 5.49184 5.96699 5.60584 5.86121 5.69473L4.39854 7.05873C4.67232 7.55517 4.97476 8.01651 5.30588 8.44273C5.63699 8.86895 5.99032 9.27273 6.36588 9.65406C6.75254 10.0407 7.16899 10.4007 7.61521 10.7341C8.06143 11.067 8.55121 11.3812 9.08454 11.6767L10.5105 10.2254C10.619 10.1085 10.741 10.0314 10.8765 9.99406C11.0117 9.95717 11.1614 9.94984 11.3259 9.97206L12.7279 10.2587C12.9092 10.3032 13.0563 10.3945 13.1692 10.5327C13.2821 10.671 13.3385 10.8292 13.3385 11.0074V12.6307C13.3385 12.8307 13.2697 12.9974 13.1319 13.1307C12.9941 13.2641 12.8252 13.3307 12.6252 13.3307Z" fill="#E9E9EA"></path>
+            </svg>
+            <span class="font-body-small font-weight-700 font-color-white">1800-123-1104 Admission Info</span>
+          </a>
+          <span class="header-contact-divide font-body-small font-weight-700 font-color-white">|</span>
+          <a href="tel:18008899773" class="header-contact-number">
+            <span class="font-body-small font-weight-700 font-color-white">1800-889-9773 OnlineÂ&nbsp;Programs</span>
+          </a>
+        </div>
+
+        <div class="add-on-menu d-flex">
+          
+          <div class="header-seacrh-area">
+            <form role="search" method="get" class="search-form" action="https://www.paruluniversity.ac.in/">
+              <div class="seacrh-area">
+                <input type="search" class="form-control" placeholder="Search" value="" name="s" id="search" aria-describedby="search">
+                <button type="submit" class="header-search-icon">
+                  <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M15.5 15.5859L11.9167 12.0026M13.8333 7.2526C13.8333 10.9345 10.8486 13.9193 7.16667 13.9193C3.48477 13.9193 0.5 10.9345 0.5 7.2526C0.5 3.57071 3.48477 0.585938 7.16667 0.585938C10.8486 0.585938 13.8333 3.57071 13.8333 7.2526Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+                </button>
+              </div>
+            </form>
+          </div>
+<!--           <div class="lang-selection">
+            <div class="lang-selected">En</div>
+          </div> -->
+
+        </div>
+      </div>
+    </div>
+    <nav class="navbar container">
+      <section class="navbar-left">
+        <a href="https://www.paruluniversity.ac.in/" class="logo">
+          <img src="../fonts/Variant9.svg" class="d-block w-100" alt="Parul University">        </a>
+		  <div id="brand-carousel">
+            <img src="../fonts/footer-logo-3.svg" alt="Brand 3" class="brand-logo active">
+<img src="../fonts/ugc-logo.svg" alt="Brand 4" class="brand-logo">
+			  <img src="image-20-1.png" alt="Brand 4" class="brand-logo">
+			  <img src="image-21.png" alt="Brand 4" class="brand-logo">
+
+          </div>
+        <div class="burger" id="burger">
+          <span class="burger-line"></span>
+          <span class="burger-line"></span>
+          <span class="burger-line"></span>
+        </div>
+      </section>
+      <section class="navbar-center">
+        <span class="overlay"></span>
+        <div class="menu d-flex" id="menu">
+
+          <!-- <a href="index.html" class="logo">
+              <img src="assets/images/svg/parul-logo.svg" class="d-block w-100" alt="logo" />
+            </a> -->
+
+          <div class="menu-header">
+            <span class="menu-arrow">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M3.59901 12.0002C3.59901 11.7615 3.69383 11.5326 3.86262 11.3638C4.0314 11.1951 4.26032 11.1002 4.49901 11.1002L17.2646 11.1002L12.275 6.34824C12.1113 6.18094 12.0193 5.95646 12.0183 5.72241C12.0174 5.48836 12.1077 5.26316 12.2701 5.09457C12.4324 4.92598 12.654 4.82726 12.888 4.81936C13.1219 4.81146 13.3497 4.89499 13.523 5.05224L20.123 11.3522C20.2101 11.4362 20.2794 11.5368 20.3267 11.6482C20.374 11.7595 20.3984 11.8793 20.3984 12.0002C20.3984 12.1212 20.374 12.241 20.3267 12.3523C20.2794 12.4636 20.2101 12.5643 20.123 12.6482L13.523 18.9482C13.4388 19.0343 13.3381 19.1026 13.227 19.1491C13.1159 19.1956 12.9966 19.2193 12.8761 19.2188C12.7557 19.2184 12.6366 19.1937 12.5258 19.1464C12.4151 19.099 12.3149 19.0299 12.2314 18.9431C12.1478 18.8564 12.0826 18.7537 12.0394 18.6413C11.9963 18.5288 11.9761 18.4088 11.9802 18.2885C11.9843 18.1681 12.0125 18.0497 12.0631 17.9405C12.1137 17.8312 12.1858 17.7332 12.275 17.6522L17.2646 12.9002L4.49901 12.9002C4.26032 12.9002 4.0314 12.8054 3.86262 12.6366C3.69383 12.4678 3.59901 12.2389 3.59901 12.0002Z" fill="#2F2F2F"></path>
+              </svg>
+            </span>
+            <span class="menu-header-title"></span>
+            <span class="menu-header-close-btn">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21.9998 10.0039L10.0098 21.9939" stroke="#07060B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22.0039 22.0025L10.0039 10" stroke="#07060B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </svg>
+            </span>
+          </div>
+
+          <div class="menu-logo-close-btn">
+            <img src="../fonts/parul-logo-resp.svg" class="logo-resp" alt="logo">
+            <div class="menu-close-btn">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21.9998 10.0039L10.0098 21.9939" stroke="#07060B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22.0039 22.0025L10.0039 10" stroke="#07060B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </svg>
+            </div>
+          </div>
+
+          <div class="header-list-resp">
+
+            <div class="add-on-header add-on-header-responsive">
+              <div class="header-seacrh-area">
+                <form role="search" method="get" class="search-form" action="https://www.paruluniversity.ac.in/">
+                  <div class="seacrh-area">
+                    <input type="search" class="form-control" placeholder="Search" value="" name="s" id="search" aria-describedby="search">
+                    <button type="submit" class="header-search-icon">
+                      <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M15.5 15.5859L11.9167 12.0026M13.8333 7.2526C13.8333 10.9345 10.8486 13.9193 7.16667 13.9193C3.48477 13.9193 0.5 10.9345 0.5 7.2526C0.5 3.57071 3.48477 0.585938 7.16667 0.585938C10.8486 0.585938 13.8333 3.57071 13.8333 7.2526Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"></path>
+                      </svg>
+                    </button>
+                  </div>
+                </form>
+              </div>
+              <div class="header-contact d-flex">
+                <a href="tel:18001231104" class="header-contact-number d-flex">
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12.6252 13.3307C11.5017 13.3307 10.3497 13.0494 9.16921 12.4867C7.98876 11.9241 6.8901 11.1341 5.87321 10.1167C4.86432 9.09984 4.07854 8.00317 3.51587 6.82673C2.95321 5.65029 2.67188 4.50051 2.67188 3.3774C2.67188 3.1774 2.73854 3.00851 2.87188 2.87073C3.00521 2.73295 3.17188 2.66406 3.37188 2.66406H5.02054C5.20187 2.66406 5.3601 2.72117 5.49521 2.8354C5.63032 2.94962 5.72165 3.09606 5.76921 3.27473L6.09988 4.86406C6.13099 5.05073 6.12543 5.21362 6.08321 5.35273C6.04099 5.49184 5.96699 5.60584 5.86121 5.69473L4.39854 7.05873C4.67232 7.55517 4.97476 8.01651 5.30588 8.44273C5.63699 8.86895 5.99032 9.27273 6.36588 9.65406C6.75254 10.0407 7.16899 10.4007 7.61521 10.7341C8.06143 11.067 8.55121 11.3812 9.08454 11.6767L10.5105 10.2254C10.619 10.1085 10.741 10.0314 10.8765 9.99406C11.0117 9.95717 11.1614 9.94984 11.3259 9.97206L12.7279 10.2587C12.9092 10.3032 13.0563 10.3945 13.1692 10.5327C13.2821 10.671 13.3385 10.8292 13.3385 11.0074V12.6307C13.3385 12.8307 13.2697 12.9974 13.1319 13.1307C12.9941 13.2641 12.8252 13.3307 12.6252 13.3307Z" fill="#E9E9EA"></path>
+                  </svg>
+                  <span class="font-body-small font-weight-700 font-color-white">1800-123-1104 Admission Info</span>
+                </a>
+                <span class="header-contact-divide font-body-small font-weight-700 font-color-white">|</span>
+                <a href="tel:18008899773" class="header-contact-number">
+                  <span class="font-body-small font-weight-700 font-color-white">1800-889-9773 OnlineÂ&nbsp;Programs</span>
+                </a>
+              </div>
+              <div class="add-on-menu">
+                
+
+              </div>
+<!--               <div class="lang-selection">
+                <div class="lang-selected">En</div>
+              </div> -->
+            </div>
+
+            <ul class="menu-inner d-flex mb-0">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item menu-dropdown"><span class="menu-link">About</span><div class="submenu megamenu"><div class="megamenu-column-4"><div class="submenu-inner-wrapper d-flex"><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Discover PU</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/" class="submenu-link letter-spacing-2">Overview</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/leadership/" class="submenu-link letter-spacing-2">Leadership</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/vision-and-mission/" class="submenu-link letter-spacing-2">Vision and Mission</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/pu-advantage/" class="submenu-link letter-spacing-2">PU Advantage</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/awards-rankings-ratings/" class="submenu-link letter-spacing-2">Awards &amp; Rankings</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/recognitions-accreditations-approvals-notifications/" class="submenu-link letter-spacing-2">Recognitions &amp; Accreditations</a></li></ul></div><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Explore More</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/campus/" class="submenu-link letter-spacing-2">Our Campus Locations</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/about-us/pu-infrastructure/" class="submenu-link letter-spacing-2">PU infrastructure</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/centres-departments/social-responsive-cell/" class="submenu-link letter-spacing-2">Sakshamthad Foundation</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/life-at-pu/" class="submenu-link letter-spacing-2">Life at PU</a></li><li class="submenu-item"><a target="_blank" href="http://consultancy.paruluniversity.ac.in/" class="submenu-link letter-spacing-2">Consultancy</a></li></ul></div></div><div class="megamenu-img"><div class="header-right-1"><div class="menu-title"><h3 class="menu-title-main">Admissions Open 2026!</h3><p class="menu-title-desc">Join a new generation of learners at Indiaâ€™s youngest NAAC A++ accredited university. </p></div><img src="DSC05327-1.png" class="header-icon-2" alt="Apply now for Parul University 2026 admissions"></div></div></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item menu-dropdown"><span class="menu-link">Academics</span><div class="submenu megamenu"><div class="megamenu-column-4"><div class="submenu-inner-wrapper d-flex"><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Our Education</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/academic-overview/" class="submenu-link letter-spacing-2">Academic Overview</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/educational-events-at-pu/" class="submenu-link letter-spacing-2">Academic Events</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/examinations/" class="submenu-link letter-spacing-2">Examinations</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/research-and-development-centre/" class="submenu-link letter-spacing-2">Research and Development Cell</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/student-services/" class="submenu-link letter-spacing-2">Student Services</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/teaching-practices/" class="submenu-link letter-spacing-2">Teaching Practices</a></li></ul></div><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Our Resources</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/student-welfare/" class="submenu-link letter-spacing-2">Student Welfare</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/professors-of-practice/" class="submenu-link letter-spacing-2">Professors of Practice</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/pu-libraries/" class="submenu-link letter-spacing-2">PU Libraries</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/faculties-institutes/" class="submenu-link letter-spacing-2">Faculties</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/pu-talks/" class="submenu-link letter-spacing-2">PU Talks</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/technical-events-cell/" class="submenu-link letter-spacing-2">Technical Events Cell</a></li></ul></div></div><div class="megamenu-img"><div class="header-right-1"><div class="menu-title"><h3 class="menu-title-main">Molding Careers with Confidence</h3><p class="menu-title-desc">At PU, students benefit from real-world learning and connections to industry professionals that allow them to pursue their next steps in a career.</p></div><img src="DSC04597-1.png" class="header-icon-2" alt="Molding Careers with Confidence"></div></div></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item menu-dropdown"><span class="menu-link">Admission</span><div class="submenu megamenu"><div class="megamenu-column-4"><div class="submenu-inner-wrapper d-flex"><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Our Programs</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/diploma/" class="submenu-link letter-spacing-2">Diploma</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/bachelors-programs/" class="submenu-link letter-spacing-2">Bachelors</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/masters-programs/" class="submenu-link letter-spacing-2">Masters</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/certificate-programs/" class="submenu-link letter-spacing-2">CEP</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/wip-programs/" class="submenu-link letter-spacing-2">Work Integrated Programs</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/doctoral-post-doctoral-program/" class="submenu-link letter-spacing-2">Doctoral &amp; Post-doctoral</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/industry-embedded/" class="submenu-link letter-spacing-2">Industry Embedded</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/pathway-program/" class="submenu-link letter-spacing-2">Pathway Program</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/program-type/dual-degree/" class="submenu-link letter-spacing-2">Dual Degree Programs</a></li><li class="submenu-item"><a target="_blank" href="https://paruluniversity.online/" class="submenu-link letter-spacing-2">Online Programs</a></li></ul></div><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Study Here</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/international-admissions/" class="submenu-link letter-spacing-2">International Admissions</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/admission/how-to-apply/" class="submenu-link letter-spacing-2">How to apply</a></li><li class="submenu-item"><a target="_blank" href="https://admissions.paruluniversity.ac.in/?utm_source=website&amp;utm_medium=Apply+Now+Button&amp;utm_campaign=Website+Button" class="submenu-link letter-spacing-2">Apply Now</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/scholarships-at-pu/" class="submenu-link letter-spacing-2">Scholarships at PU</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/admission/" class="submenu-link letter-spacing-2">Admission Offices</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/domestic-students-fees-structure/" class="submenu-link letter-spacing-2">Domestic Fees Structure</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/international-students-fees-structure/" class="submenu-link letter-spacing-2">International Fees Structure</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/living-at-pu/" class="submenu-link letter-spacing-2">Living at PU</a></li></ul></div></div><div class="megamenu-img"><div class="header-right-1"><div class="menu-title"><h3 class="menu-title-main">200+ Programs. NEP 2020-Aligned</h3><p class="menu-title-desc">At PU, learning extends past the classroom. Through one of our 200 NEP 2020-aligned programs, students can pursue their interests, engage in project-based learning, and experience real-world exposure - all in a space that is focused on growth.</p></div><img src="DSC05258-1-e1765774577892.png" class="header-icon-2" alt="200+ Programs. NEP 2020-Aligned"></div></div></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item menu-dropdown"><span class="menu-link">Placements</span><div class="submenu megamenu"><div class="megamenu-column-4"><div class="submenu-inner-wrapper d-flex"><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Industry Aligned</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/training-placement-cell/" class="submenu-link letter-spacing-2">Training &amp; placement cell</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/our-placement-events/" class="submenu-link letter-spacing-2">Placement events</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/our-placement-recruiters/" class="submenu-link letter-spacing-2">Our Recruiters</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/placement-team/" class="submenu-link letter-spacing-2">Placement Team</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/placement-policy/" class="submenu-link letter-spacing-2">Placement Policy</a></li></ul></div><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Innovation Ecosystem</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/pierc/" class="submenu-link letter-spacing-2">PIERC</a></li></ul></div></div><div class="megamenu-img"><div class="header-right-1"><div class="menu-title"><h3 class="menu-title-main">Countless Opportunities</h3><p class="menu-title-desc">PU students utilize the thousands of employers that are part of the campus community, not just for the purpose of applying for jobs, but for having the opportunity to discover career connections.</p></div><img src="DSC04969-1.png" class="header-icon-2" alt="Countless Opportunities"></div></div></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item menu-dropdown"><span class="menu-link">Internationalization</span><div class="submenu megamenu"><div class="megamenu-column-4"><div class="submenu-inner-wrapper d-flex"><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Collaborations &amp; Mobility Programs</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/international-relations/" class="submenu-link letter-spacing-2">International Relations</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/student-mobility-programs/" class="submenu-link letter-spacing-2">Student Mobility</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/staff-mobility/" class="submenu-link letter-spacing-2">Staff Mobility</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/outreach-activities-and-events/" class="submenu-link letter-spacing-2">Events &amp; Outreach</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/collaborative-research/" class="submenu-link letter-spacing-2">Collaborative Research</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/international-visiting-professor-programme/" class="submenu-link letter-spacing-2">Visiting Professors</a></li></ul></div><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Study in India</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/international-admissions/" class="submenu-link letter-spacing-2">International Admissions</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/admission/all-programs/" class="submenu-link letter-spacing-2">Explore All Programs</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/living-at-pu/" class="submenu-link letter-spacing-2">Hostels &amp; Residencies</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/life-at-pu/" class="submenu-link letter-spacing-2">Life at PU</a></li></ul></div></div><div class="megamenu-img"><div class="header-right-1"><div class="menu-title"><h3 class="menu-title-main">Diverse. Global. Connected</h3><p class="menu-title-desc">At PU, students from more than 75 countries come together to learn, share, and grow.</p></div><img src="pikaso_texttoimage_Lesotho-male-student-in-a-formal-suit-and-tie-with-1.png" class="header-icon-2" alt="International students from 75 countries learning together at Parul University"></div></div></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item menu-dropdown"><span class="menu-link">Faculties</span><div class="submenu megamenu"><div class="megamenu-column-4"><div class="submenu-inner-wrapper d-flex"><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Faculties</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/agriculture/" class="submenu-link letter-spacing-2">Faculty of Agriculture</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/applied-sciences/" class="submenu-link letter-spacing-2">Faculty of Applied Sciences</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/architecture-and-planning/" class="submenu-link letter-spacing-2">Faculty of Architecture and Planning</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/ayurveda/" class="submenu-link letter-spacing-2">Faculty of Ayurved</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/commerce/" class="submenu-link letter-spacing-2">Faculty of Commerce</a></li><li class="submenu-item"><a target="_blank" href="https://www.paruluniversity.ac.in/pid/" class="submenu-link letter-spacing-2">Faculty of Design</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/engineering-technology/" class="submenu-link letter-spacing-2">Faculty of Engineering &amp; Technology</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/fine-arts/" class="submenu-link letter-spacing-2">Faculty of Fine Arts</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/homeopathy/" class="submenu-link letter-spacing-2">Faculty of Homeopathy</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/hotel-management-catering/" class="submenu-link letter-spacing-2">Faculty of Hotel Management and Catering Technology</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/it-computer-science/" class="submenu-link letter-spacing-2">Faculty of IT &amp; Computer Science</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/law/" class="submenu-link letter-spacing-2">Faculty of Law</a></li></ul></div><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">â€Ž â€Ž â€Ž â€Ž â€Ž â€Ž â€Ž â€Ž â€Ž</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/liberal-arts/" class="submenu-link letter-spacing-2">Faculty of Liberal Arts</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/library-information-sciences/" class="submenu-link letter-spacing-2">Faculty of Library and Information Science</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/management-studies/" class="submenu-link letter-spacing-2">Faculty of Management Studies</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/medicine/" class="submenu-link letter-spacing-2">Faculty of Medicine</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/nursing/" class="submenu-link letter-spacing-2">Faculty of Nursing</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/faculty-of-allied-and-healthcare-sciences/" class="submenu-link letter-spacing-2">Faculty of Allied and Healthcare Sciences</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/performing-arts/" class="submenu-link letter-spacing-2">Faculty of Performing Arts</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/pharmacy/" class="submenu-link letter-spacing-2">Faculty of Pharmacy</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/physiotherapy/" class="submenu-link letter-spacing-2">Faculty of Physiotherapy</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/public-health/" class="submenu-link letter-spacing-2">Faculty of Public Health</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/social-work/" class="submenu-link letter-spacing-2">Faculty of Social Work</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/faculty/faculty-of-education-proposed/" class="submenu-link letter-spacing-2">Faculty of Education (Proposed)</a></li></ul></div></div><div class="megamenu-img"><div class="header-right-1"><div class="menu-title"><h3 class="menu-title-main">Learn from the Best, Lead Your Quest</h3><p class="menu-title-desc">Gain knowledge from talented and collegial instructors who blend professional and academic experience.</p></div><img src="Gulf.png" class="header-icon-2" alt="Learn from experts, lead your journey at Parul University"></div></div></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item menu-dropdown"><span class="menu-link">Life at PU</span><div class="submenu megamenu"><div class="megamenu-column-4"><div class="submenu-inner-wrapper d-flex"><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">AT PU</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/life-at-pu/" class="submenu-link letter-spacing-2">Life at PU</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/concerts-edm-at-pu/" class="submenu-link letter-spacing-2">Concerts &amp; EDMs</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/blog/" class="submenu-link letter-spacing-2">Blogs / PU Mirror</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/pu-talks/" class="submenu-link letter-spacing-2">PU Talks</a></li></ul></div><div class="submenu-inner"><ul class="submenu-list"><p class="submenu-list-title">Home onÂ&nbsp;Campus</p><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/life-at-pu/campus-life-at-pu/" class="submenu-link letter-spacing-2">Campus Life at PU</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/living-at-pu/" class="submenu-link letter-spacing-2">Living at PU</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/sports-at-pu/" class="submenu-link letter-spacing-2">Sports at PU</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/academics/student-welfare/" class="submenu-link letter-spacing-2">Student Welfare</a></li><li class="submenu-item"><a href="https://www.paruluniversity.ac.in/pu-conferences/" class="submenu-link letter-spacing-2">PU Conferences</a></li></ul></div></div><div class="megamenu-img"><div class="header-right-1"><div class="menu-title"><h3 class="menu-title-main">Celebrate. Explore. Shape Your Future</h3><p class="menu-title-desc">Campus life at PU is where academics and festivities come together.</p></div><img src="Mask-group-e1764068597892.png" class="header-icon-2" alt="Celebrate and explore at Parul University"></div></div></div></div></li>
+            </ul>
+
+            <div class="contact-btn-wrapper">
+              <div class="contact-btn">
+                <a href="https://www.paruluniversity.ac.in/connect-with-us/" class="p-btn p-btn-outline">Contact us</a>
+              </div>
+              <div class="contact-btn">
+                <a href="https://admissions.paruluniversity.ac.in/?utm_source=website&amp;utm_medium=Apply+Now+Button&amp;utm_campaign=Website+Button
+" class="p-btn p-btn-primary" target="_blank">Apply now</a>
+              </div>
+            </div>
+
+
+          </div>
+
+        </div>
+      </section>
+      <!-- <section class="navbar-right">
+            <button class="switch" id="switch">
+               <span class="switch-light"><i class="bx bx-sun"></i></span>
+               <span class="switch-dark"><i class="bx bx-moon"></i></span>
+            </button>
+         </section> -->
+    </nav>
+  </header>
+<style>
+:root {
+    --yellow: #ffc400;
+    --purple: #231b5e;
+}
+
+.page-404 {
+    min-height: 100vh;
+    background: linear-gradient(135deg, var(--purple), #1a134a);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-404 .error-box {
+    background: #ffffff;
+    padding: 3rem 4rem;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+    max-width: 420px;
+    width: 90%;
+}
+
+.page-404 .error-code {
+    font-size: 7rem;
+    font-weight: 900;
+    color: var(--yellow);
+    line-height: 1;
+}
+
+.page-404 h1 {
+    font-size: 1.8rem;
+    color: var(--purple);
+    margin-top: 1rem;
+}
+
+.page-404 p {
+    margin: 1rem 0 2rem;
+    color: #555;
+    font-size: 1rem;
+}
+
+.page-404 a {
+    display: inline-block;
+    text-decoration: none;
+    background: var(--purple);
+    color: #fff;
+    padding: 0.8rem 2rem;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.page-404 a:hover {
+    background: var(--yellow);
+    color: var(--purple);
+}
+	.apply-area {
+    background: linear-gradient(90deg, #362B8D -13.85%, #9360A2 24.7%, #F9C474 84.1%);
+    padding: .75rem;
+    text-align: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.apply-area .apply-area-wrapper {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.apply-area .apply-area-wrapper .apply-area-img {
+    min-width: 40px;
+    max-width: 40px;
+    margin: 0 .4375rem;
+}
+.apply-area .admission {
+    padding-right: 1rem;
+    border-right: 2px solid var(--white);
+}
+
+.font-color-white {
+    color: var(--white) !important;
+}
+.apply-area .apply-content {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-left: 1rem;
+    gap: .4375rem;
+    transition: all .35s;
+}
+</style>
+
+<section class="page-404">
+    <div class="error-box">
+        <div class="error-code">404</div>
+        <h1>Page Not Found</h1>
+        <p>Sorry, the page youâ€™re looking for doesnâ€™t exist or has been moved.</p>
+        <a href="https://www.paruluniversity.ac.in/">Go Back Home</a>
+    </div>
+</section>
+
+
+<section class="apply-area">
+  <div class="apply-area-wrapper">
+    <img class="img-fluid apply-area-img" src="../fonts/apply-illustration-1.svg">
+    <p class="admission font-color-white font-head-xs font-weight-700">
+      Open for admission year  2026-27    </p>
+    <a href="https://admissions.paruluniversity.ac.in/?utm_source=website&amp;utm_medium=Apply+Now+Button&amp;utm_campaign=Website+Button" class="apply-content font-color-white font-head-xs font-weight-700" target="_blank">
+      Apply now      <img class="apply img-fluid" src="../fonts/arrow-white.svg" alt="apply">
+    </a>
+    <img class="img-fluid apply-area-img" src="../fonts/apply-illustration-2.svg">
+  </div>
+</section>
+
+<footer class="footer cmn-spacing-tb">
+  <div class="container">
+    <div class="footer-head">
+      <h5 class="footer-head-title font-head-xl font-color-white font-weight-700 pb-24 pb-md-20">Choosing PU is<span class="font-head-xl font-color-white font-weight-400"> Choosing More &amp; Choosing Right</span></h5>
+      <p class="footer-head-desc font-color-white font-body-normal">Learn more, grow faster, and discover your direction.</p>
+      <div class="action-area footer-action">
+        <a href="https://www.paruluniversity.ac.in/admission/all-programs/#all-course-finder" class="p-btn p-btn-primary">
+          Find course        </a>
+        <a href="https://www.paruluniversity.ac.in/connect-with-us/" class="p-btn p-btn-outline">
+          Contact us        </a>
+      </div>
+    </div>
+    <div class="footer-menu">
+      <div class="footer-left">
+        <div class="footer-list">
+          <div class="footer-list-wrapper">
+            <h5 class="font-body-normal font-weight-700 font-color-white pb-16">Explore</h5>
+            <ul class="footer-items"><li class="footer-link"><a href="https://www.paruluniversity.ac.in/about-us/" class="font-body-small font-color-white">About PU</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/research-and-development-centre/" class="font-body-small font-color-white">Research &amp; Development</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/about-us/awards-rankings-ratings/" class="font-body-small font-color-white">Awards and recognitions</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/training-placement-cell/" class="font-body-small font-color-white">Placements</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/life-at-pu/" class="font-body-small font-color-white">Life at PU</a></li>
+<li class="footer-link"><a href="https://journals.lww.com/pjhr/pages/default.aspx" class="font-body-small font-color-white">Journals</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/iqac-page/" class="font-body-small font-color-white">IQAC</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/nir/" class="font-body-small font-color-white">National Institutional RankingÂ&nbsp;Framework</a></li>
+</ul>          </div>
+        </div>
+        <div class="footer-list">
+          <div class="footer-list-wrapper">
+            <h5 class="font-body-normal font-weight-700 font-color-white pb-16">Connect</h5>
+            <ul class="footer-items"><li class="footer-link"><a href="https://www.paruluniversity.ac.in/connect-with-us/" class="font-body-small font-color-white">Connect PU</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/student-services/" class="font-body-small font-color-white">Student Services</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/blog/" class="font-body-small font-color-white">PU Mirror</a></li>
+<li class="footer-link"><a href="https://vacancies.paruluniversity.ac.in/" class="font-body-small font-color-white">Careers</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/document-verification-requisition/" class="font-body-small font-color-white">Document Verification through External Agencies</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/pu-conferences/" class="font-body-small font-color-white">PU Conferences</a></li>
+</ul>          </div>
+        </div>
+        <div class="footer-list">
+          <div class="footer-list-wrapper">
+            <h5 class="font-body-normal font-weight-700 font-color-white pb-16">Enroll</h5>
+            <ul class="footer-items"><li class="footer-link"><a href="https://admissions.paruluniversity.ac.in/?utm_source=website&amp;utm_medium=Apply+Now+Button&amp;utm_campaign=Website+Button" class="font-body-small font-color-white">Apply now</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/admission/how-to-apply/" class="font-body-small font-color-white">How to apply</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/admission/all-programs/" class="font-body-small font-color-white">All Programs</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/international-relations/" class="font-body-small font-color-white">International</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/pay-fees/" class="font-body-small font-color-white">Pay Fees Online</a></li>
+</ul>          </div>
+          <div class="footer-list-wrapper">
+            <h5 class="font-body-normal font-weight-700 font-color-white pb-16">Legal</h5>
+			  <ul class="footer-items"><li class="footer-link"><a href="https://www.paruluniversity.ac.in/privacy-policy/" class="font-body-small font-color-white">PrivacyÂ&nbsp;Policy</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/terms-of-use/" class="font-body-small font-color-white">Terms of use</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/expression-interest/" class="font-body-small font-color-white">Expression of Interest</a></li>
+</ul>           
+          </div>
+        </div>
+        <div class="footer-list">
+          <div class="footer-list-wrapper">
+            <h5 class="font-body-normal font-weight-700 font-color-white pb-16">Regulatory</h5>
+            <ul class="footer-items"><li class="footer-link"><a href="https://www.paruluniversity.ac.in/redressal-of-grievances-of-students/" class="font-body-small font-color-white">Grievance Redressal</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/statutory-and-compliance-disclosures/" class="font-body-small font-color-white">Internal Complaints Committee</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/statutory-and-compliance-disclosures/" class="font-body-small font-color-white">Common University Entrance Test</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/statutory-and-compliance-disclosures/" class="font-body-small font-color-white">ABC Scheme</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/statutory-and-compliance-disclosures/" class="font-body-small font-color-white">UGC Proforma/ Mandatory Disclosure</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/statutory-and-compliance-disclosures/" class="font-body-small font-color-white">Details of Anti Ragging Committee</a></li>
+<li class="footer-link"><a href="https://www.paruluniversity.ac.in/statutory-and-compliance-disclosures/" class="font-body-small font-color-white">Sexual Harassment of Women &amp; Workplace act</a></li>
+</ul>          </div>
+        </div>
+      </div>
+      <div class="footer-right">
+          <div class="subscribe-area">
+          <h5 class="font-body-normal font-weight-700 font-color-white pb-12 pb-md-16"> Subscribe to PU Mirror</h5>
+          <div class="newsletter-area">
+            <form id="footer-newsletter-form" method="post">
+              <input type="email" name="subscriber_email" class="form-control" placeholder="Enter email address" required="">
+              <input type="hidden" name="action" value="subscribe_newsletter">
+              <input type="hidden" id="subscribe_nonce" name="subscribe_nonce" value="0fc3de4707"><input type="hidden" name="_wp_http_referer" value="/wp-content/themes/parul/assets/css/owl.carousel/owl.video.play.png">              <button type="submit" class="p-btn p-btn-primary">
+                Subscribe              </button>
+            </form>
+          </div>
+        </div>
+        <div class="social-area">
+          <h5 class="font-body-normal font-weight-700 font-color-white pb-12 pb-md-20">Join us</h5>
+          <ul class="social-media-wrapper">
+                            <li class="social-media-icons">
+                  <a href="https://www.linkedin.com/school/paruluniversity/" target="_blank" rel="noopener noreferrer" class="social-media-links">
+                    <img class="img-fluid" src="../fonts/linkedin.svg" alt="linkedin">
+                  </a>
+                </li>
+                            <li class="social-media-icons">
+                  <a href="https://www.facebook.com/ParulUniversity/" target="_blank" rel="noopener noreferrer" class="social-media-links">
+                    <img class="img-fluid" src="../fonts/facebook.svg" alt="facebook">
+                  </a>
+                </li>
+                            <li class="social-media-icons">
+                  <a href="https://www.instagram.com/paruluniversity/?hl=en" target="_blank" rel="noopener noreferrer" class="social-media-links">
+                    <img class="img-fluid" src="../fonts/instagram.svg" alt="instagram">
+                  </a>
+                </li>
+                            <li class="social-media-icons">
+                  <a href="https://www.youtube.com/@paruluniversity/" target="_blank" rel="noopener noreferrer" class="social-media-links">
+                    <img class="img-fluid" src="../fonts/youtube.svg" alt="youtube">
+                  </a>
+                </li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-end">
+      <div class="footer-logo">
+                    <div class="logo-box">
+              <img class="img-fluid" src="PU_Logo_Smaller.png" alt="parul-university">
+            </div>
+                    <div class="logo-box">
+              <img class="img-fluid" src="../fonts/footer-logo-3_1.svg" alt="niif">
+            </div>
+                    <div class="logo-box">
+              <img class="img-fluid" src="../fonts/footer-logo-4.svg" alt="world-university-ranking">
+            </div>
+              </div>
+      <div class="copyright-area">
+        <p class="copyright-text font-body-small">
+          <img class="img-fluid" src="../fonts/copyright.svg" alt="copyright">
+          Paruluniversity 2026        </p>
+      </div>
+    </div>
+  </div>
+	<div class="cf7-modal-overlay" style="display: none;">
+  <div class="cf7-modal modal-scrollble">
+    <button class="cf7-modal-close" type="button">×</button>
+    
+<div class="wpcf7 no-js" id="wpcf7-f22140-o1" lang="en-US" dir="ltr" data-wpcf7-id="22140">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/wp-content/themes/parul/assets/css/owl.carousel/owl.video.play.png#wpcf7-f22140-o1" method="post" class="wpcf7-form init" aria-label="Contact form" enctype="multipart/form-data" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="22140"><input type="hidden" name="_wpcf7_version" value="6.1.6"><input type="hidden" name="_wpcf7_locale" value="en_US"><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f22140-o1"><input type="hidden" name="_wpcf7_container_post" value="0"><input type="hidden" name="_wpcf7_posted_data_hash" value=""><input type="hidden" name="_wpcf7dtx_version" value="5.0.5"><input type="hidden" name="_wpcf7_recaptcha_response" value="">
+</fieldset>
+<div class="cf7-row">
+  <span class="cf7-label">Name of Applicant*</span>
+  <span class="wpcf7-form-control-wrap" data-name="applicant-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="applicant-name"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Email*</span>
+  <span class="wpcf7-form-control-wrap" data-name="applicant-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email cf7-input" aria-required="true" aria-invalid="false" value="" type="email" name="applicant-email"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Mobile Number*</span>
+  <span class="wpcf7-form-control-wrap" data-name="applicant-mobile"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel cf7-input" aria-required="true" aria-invalid="false" value="" type="tel" name="applicant-mobile"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Institution*</span>
+  <span class="wpcf7-form-control-wrap" data-name="applicant-institution"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="applicant-institution"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Name of Faculty*</span>
+  <span class="wpcf7-form-control-wrap" data-name="faculty-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="faculty-name"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Designation*</span>
+  <span class="wpcf7-form-control-wrap" data-name="designation"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="designation"><option value="Faculty">Faculty</option><option value="PG Student/Research Scholar">PG Student/Research Scholar</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Research Contribution (Attach Copies of Article(s))</span>
+  <span class="wpcf7-form-control-wrap" data-name="article-copies"><input size="40" class="wpcf7-form-control wpcf7-file cf7-input" accept="audio/*,video/*,image/*" aria-invalid="false" type="file" name="article-copies"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Title of the Article*</span>
+  <span class="wpcf7-form-control-wrap" data-name="article-title"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="article-title"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Name of Journal, Vol., Year*</span>
+  <span class="wpcf7-form-control-wrap" data-name="journal-details"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="journal-details"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Publisher*</span>
+  <span class="wpcf7-form-control-wrap" data-name="publisher"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="publisher"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Indexed In*</span>
+  <span class="wpcf7-form-control-wrap" data-name="indexed-in"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="indexed-in"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">SCI-Thomson Reuters Impact Factor*</span>
+  <span class="wpcf7-form-control-wrap" data-name="impact-factor"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="impact-factor"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Details for Above 5 Points*</span>
+  <span class="wpcf7-form-control-wrap" data-name="article-details"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="article-details"></textarea></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Granted Patents*</span>
+  <span class="wpcf7-form-control-wrap" data-name="granted-patents"><input class="wpcf7-form-control wpcf7-number wpcf7-validates-as-required wpcf7-validates-as-number cf7-input" min="0" aria-required="true" aria-invalid="false" value="" type="number" name="granted-patents"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Patent Title*</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-title"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="patent-title"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Patent Type*</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-type"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="patent-type"><option value="Indian">Indian</option><option value="US">US</option><option value="Other Country">Other Country</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Patent No.*</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-no"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="patent-no"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Details for Above 3 Points*</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-details"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="patent-details"></textarea></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Published/Applied Patents</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-pub-title"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="patent-pub-title"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Patent Application Type</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-app-type"><select class="wpcf7-form-control wpcf7-select cf7-input" aria-invalid="false" name="patent-app-type"><option value="Indian">Indian</option><option value="US">US</option><option value="Other Country">Other Country</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Patent Application No.</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-app-no"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="patent-app-no"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Status</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-status"><select class="wpcf7-form-control wpcf7-select cf7-input" aria-invalid="false" name="patent-status"><option value="Published">Published</option><option value="Under Examination">Under Examination</option><option value="Contested">Contested</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Details for Above 4 Points</span>
+  <span class="wpcf7-form-control-wrap" data-name="patent-pub-details"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea cf7-input" aria-invalid="false" name="patent-pub-details"></textarea></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Conference Paper / Invited Lecture / Seminar (Attach certificate if won prize)</span>
+  <span class="wpcf7-form-control-wrap" data-name="conference-certificate"><input size="40" class="wpcf7-form-control wpcf7-file cf7-input" accept="audio/*,video/*,image/*" aria-invalid="false" type="file" name="conference-certificate"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Title of Paper/Invited Talk/Keynote*</span>
+  <span class="wpcf7-form-control-wrap" data-name="paper-title"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="paper-title"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Conference/Symposium Name &amp; Place*</span>
+  <span class="wpcf7-form-control-wrap" data-name="conference-details"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="conference-details"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Status*</span>
+  <span class="wpcf7-form-control-wrap" data-name="conference-status"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="conference-status"><option value="National">National</option><option value="International">International</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Mode of Presentation*</span>
+  <span class="wpcf7-form-control-wrap" data-name="presentation-mode"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="presentation-mode"><option value="Oral">Oral</option><option value="Poster">Poster</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Date and Time of Presentation*</span>
+  <span class="wpcf7-form-control-wrap" data-name="presentation-date"><input class="wpcf7-form-control wpcf7-date wpcf7-validates-as-required wpcf7-validates-as-date cf7-input" aria-required="true" aria-invalid="false" value="" type="date" name="presentation-date"></span>
+  <span class="wpcf7-form-control-wrap" data-name="presentation-time"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" value="" type="text" name="presentation-time"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Won any prize?*</span>
+  <span class="wpcf7-form-control-wrap" data-name="prize-status"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="prize-status"><option value="Yes">Yes</option><option value="No">No</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Details for Above 6 Points*</span>
+  <span class="wpcf7-form-control-wrap" data-name="conference-details-text"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required cf7-input" aria-required="true" aria-invalid="false" name="conference-details-text"></textarea></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Research Projects Applied</span>
+  <span class="wpcf7-form-control-wrap" data-name="project-applied-title"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="project-applied-title"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Funding Agency</span>
+  <span class="wpcf7-form-control-wrap" data-name="funding-agency-applied"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="funding-agency-applied"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Total Amount Applied (INR)</span>
+  <span class="wpcf7-form-control-wrap" data-name="amount-applied-applied"><input class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number cf7-input" min="0" aria-invalid="false" value="" type="number" name="amount-applied-applied"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Your Status in Project</span>
+  <span class="wpcf7-form-control-wrap" data-name="status-in-applied"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="status-in-applied"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">PI or Co-PI</span>
+  <span class="wpcf7-form-control-wrap" data-name="project-role-applied"><select class="wpcf7-form-control wpcf7-select cf7-input" aria-invalid="false" name="project-role-applied"><option value="PI">PI</option><option value="Co-PI">Co-PI</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Details for Above 5 Points</span>
+  <span class="wpcf7-form-control-wrap" data-name="applied-details"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea cf7-input" aria-invalid="false" name="applied-details"></textarea></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Research Projects Sanctioned</span>
+  <span class="wpcf7-form-control-wrap" data-name="project-sanctioned-title"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="project-sanctioned-title"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Funding Agency</span>
+  <span class="wpcf7-form-control-wrap" data-name="funding-agency-sanctioned"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="funding-agency-sanctioned"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Total Amount Sanctioned (INR)</span>
+  <span class="wpcf7-form-control-wrap" data-name="amount-sanctioned-sanctioned"><input class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number cf7-input" min="0" aria-invalid="false" value="" type="number" name="amount-sanctioned-sanctioned"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Duration</span>
+  <span class="wpcf7-form-control-wrap" data-name="duration-sanctioned"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="duration-sanctioned"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Your Status in Project</span>
+  <span class="wpcf7-form-control-wrap" data-name="status-in-sanctioned"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text cf7-input" aria-invalid="false" value="" type="text" name="status-in-sanctioned"></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">PI or Co-PI</span>
+  <span class="wpcf7-form-control-wrap" data-name="project-role-sanctioned"><select class="wpcf7-form-control wpcf7-select cf7-input" aria-invalid="false" name="project-role-sanctioned"><option value="PI">PI</option><option value="Co-PI">Co-PI</option></select></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Details for Above 6 Points</span>
+  <span class="wpcf7-form-control-wrap" data-name="sanctioned-details"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea cf7-input" aria-invalid="false" name="sanctioned-details"></textarea></span>
+</div>
+<div class="cf7-row">
+  <span class="cf7-label">Declaration*</span>
+  <span class="wpcf7-form-control-wrap" data-name="declaration"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required cf7-checkbox"><span class="wpcf7-list-item first last"><label><input type="checkbox" name="declaration[]" value="I certify that the above information is true."><span class="wpcf7-list-item-label">I certify that the above information is true.</span></label></span></span></span>
+</div>
+<div class="cf7-row">
+  <input class="wpcf7-form-control wpcf7-submit has-spinner cf7-submit" type="submit" value="Submit Application">
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+  </div>
+</div>
+</footer>
+
+<!-- footer -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/parul/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="burst-js" defer="" src="../js/burst.min.js"></script>
+<script id="wp-hooks-js" src="../js/hooks.min.js"></script>
+<script id="wp-i18n-js" src="../js/i18n.min.js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="../js/index.js"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.paruluniversity.ac.in\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="../js/index_2.js"></script>
+<script id="jquery-js" src="../js/jquery.min.js"></script>
+<script id="nbcpf-intlTelInput-script-js" src="../js/intlTelInput.min.js"></script>
+<script id="nbcpf-countryFlag-script-js-extra">
+var nbcpf = {"ajaxurl":"https://www.paruluniversity.ac.in/wp-admin/admin-ajax.php"};
+//# sourceURL=nbcpf-countryFlag-script-js-extra
+</script>
+<script id="nbcpf-countryFlag-script-js" src="../js/countrySelect.min.js"></script>
+<script id="nbcpf-countryFlag-script-js-after">
+		(function($) {
+			$(function() {
+
+				function render_country_flags(){
+
+					$(".wpcf7-countrytext").countrySelect({
+						defaultCountry: "in",
+					});
+					$(".wpcf7-phonetext").intlTelInput({
+						autoHideDialCode: true,
+						autoPlaceholder: true,
+						nationalMode: false,
+						separateDialCode: true,
+						hiddenInput: "full_number",
+						initialCountry: "in",	
+					});
+	
+					$(".wpcf7-phonetext").each(function () {
+
+						var dial_code = $(this).siblings(".flag-container").find(".selected-flag .selected-dial-code").text();
+
+						var hiddenInput = $(this).attr('name');
+						//console.log(hiddenInput);
+						$("input[name="+hiddenInput+"-country-code]").val(dial_code);
+					});
+					
+					$(".wpcf7-phonetext").on("countrychange", function() {
+						// do something with iti.getSelectedCountryData()
+						//console.log(this.value);
+						var dial_code = $(this).siblings(".flag-container").find(".selected-flag .selected-dial-code").text();
+						var hiddenInput = $(this).attr("name");
+						$("input[name="+hiddenInput+"-country-code]").val(dial_code);
+						
+					});
+						$(".wpcf7-phonetext").on("keyup", function() {
+							var dial_code = $(this).siblings(".flag-container").find(".selected-flag .selected-dial-code").text();
+							
+							var value   = $(this).val();
+							//console.log(dial_code, value);
+							if(value == "+")
+								$(this).val("");
+							else if(value.indexOf("+") == "-1")
+								$(this).val(dial_code + value);
+							else if(value.indexOf("+") > 0)
+								$(this).val(dial_code + value.substring(dial_code.length));
+						});
+						$(".wpcf7-countrytext").on("keyup", function() {
+						var country_name = $(this).siblings(".flag-dropdown").find(".country-list li.active span.country-name").text();
+						if(country_name == "")
+						var country_name = $(this).siblings(".flag-dropdown").find(".country-list li.highlight span.country-name").text();
+						
+						var value   = $(this).val();
+						//console.log(country_name, value);
+						$(this).val(country_name + value.substring(country_name.length));
+					});
+				}
+
+				var ip_address = "";
+
+				jQuery.ajax({
+					url: "https://ipinfo.io/json",
+					//url: "https://reallyfreegeoip.org/json/",
+					success: function(response){
+						
+						//console.log(response);
+						//var location = JSON.parse(response);
+						console.log(response.country);
+						if( response.country !== undefined){
+							//console.log("here");
+							$(".wpcf7-countrytext").countrySelect({
+							});
+							$(".wpcf7-phonetext").intlTelInput({
+								autoHideDialCode: true,
+								autoPlaceholder: true,
+								nationalMode: false,
+								separateDialCode: true,
+								hiddenInput: "full_number",initialCountry: response.country.toLowerCase(),	
+							});
+							
+							$(".wpcf7-phonetext").each(function () {
+								var hiddenInput = $(this).attr('name');
+								//console.log(hiddenInput);
+								var dial_code = $(this).siblings(".flag-container").find(".selected-flag .selected-dial-code").text();
+								$("input[name="+hiddenInput+"-country-code]").val(dial_code);
+							});
+							
+							$(".wpcf7-phonetext").on("countrychange", function() {
+								// do something with iti.getSelectedCountryData()
+								//console.log(this.value);
+								var dial_code = $(this).siblings(".flag-container").find(".selected-flag .selected-dial-code").text();
+								var hiddenInput = $(this).attr("name");
+								$("input[name="+hiddenInput+"-country-code]").val(dial_code);
+								
+							});
+								
+								$(".wpcf7-phonetext").on("keyup", function() {
+									var dial_code = $(this).siblings(".flag-container").find(".selected-flag .selected-dial-code").text();
+									
+									var value   = $(this).val();
+									if(value == "+")
+										$(this).val("");
+									else if(value.indexOf("+") == "-1")
+										$(this).val(dial_code + value);
+									else if(value.indexOf("+") > 0)
+										$(this).val(dial_code + value.substring(dial_code.length));
+								
+								});$(".wpcf7-countrytext").on("keyup", function() {
+								var country_name = $(this).siblings(".flag-dropdown").find(".country-list li.active span.country-name").text();
+								if(country_name == "")
+								var country_name = $(this).siblings(".flag-dropdown").find(".country-list li.highlight span.country-name").text();
+								
+								var value   = $(this).val();
+								//console.log(country_name, value);
+								$(this).val(country_name + value.substring(country_name.length));
+							});
+
+						} else {
+
+							render_country_flags();
+
+						}
+
+					},
+					error: function(){
+						render_country_flags();
+					}
+				});
+			});
+		})(jQuery);
+//# sourceURL=nbcpf-countryFlag-script-js-after
+</script>
+<script id="custom-script-js" src="../js/custom.js"></script>
+<script id="parul-related-links-js" src="../js/related-links-slider.js"></script>
+<script id="experts-ajax-js-extra">
+var ajax_object = {"ajax_url":"https://www.paruluniversity.ac.in/wp-admin/admin-ajax.php","faculty_id":"0"};
+//# sourceURL=experts-ajax-js-extra
+</script>
+<script id="experts-ajax-js" src="../js/experts.js"></script>
+<script id="bootstrap-js" defer="defer" src="../js/bootstrap.bundle.min.js"></script>
+<script id="owl-carousel-js" defer="defer" src="../js/owl.carousel.min.js"></script>
+<script id="parul-owl-carousel-new-js" defer="defer" src="../js/owl-carousel.js"></script>
+<script id="parul-video-js" defer="defer" src="../js/video.js"></script>
+<script id="parul-header-js" defer="defer" src="../js/header.js"></script>
+<script id="parul-data-layer-js-extra">
+var wpEnv = {"type":"production"};
+//# sourceURL=parul-data-layer-js-extra
+</script>
+<script id="parul-data-layer-js" src="../js/data-layer.js"></script>
+<script id="parul-sticky-js" src="../js/sticky.js"></script>
+<script id="newsletter-script-js-extra">
+var newsletter_ajax = {"ajax_url":"https://www.paruluniversity.ac.in/wp-admin/admin-ajax.php","nonce":"0fc3de4707"};
+//# sourceURL=newsletter-script-js-extra
+</script>
+<script id="newsletter-script-js" src="../js/newsletter.js"></script>
+<script id="program-search-js-extra">
+var programSearch = {"ajax_url":"https://www.paruluniversity.ac.in/wp-admin/admin-ajax.php","nonce":"851aa83a98","action":"search_programs","program_type":""};
+//# sourceURL=program-search-js-extra
+</script>
+<script id="program-search-js" src="../js/course-search.js"></script>
+<script id="international-search-js-extra">
+var searchfeeAjax = {"ajax_url":"https://www.paruluniversity.ac.in/wp-admin/admin-ajax.php","nonce":"d1999dd7c9"};
+//# sourceURL=international-search-js-extra
+</script>
+<script id="international-search-js" src="../js/international-search.js"></script>
+<script id="program-filters-js-extra">
+var ajax_obj = {"ajax_url":"https://www.paruluniversity.ac.in/wp-admin/admin-ajax.php"};
+//# sourceURL=program-filters-js-extra
+</script>
+<script id="program-filters-js" src="../js/relation-programs.js"></script>
+<script id="custom-cf7-validation-js" src="../js/custom-validation.js"></script>
+<script id="google-recaptcha-js" src="../js/api.js"></script>
+<script id="wp-polyfill-js" src="../js/wp-polyfill.min.js"></script>
+<script id="wpcf7-recaptcha-js-before">
+var wpcf7_recaptcha = {
+    "sitekey": "6LfaGBIsAAAAAOLLl3lukzgFEA00vJ_clXCHrPR-",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+</script>
+<script id="wpcf7-recaptcha-js" src="../js/index_1.js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.paruluniversity.ac.in/wp-includes/js/wp-emoji-release.min.js?ver=dfb959843f3555d6254b99dc205d626c"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.paruluniversity.ac.in/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<div id="ocp-notification" class="ocp-bubble">
+    Need guidance? Your PU coach is here! âš¡
+</div>
+
+<div id="ocp_widget" style="
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+"></div>
+<script async="" defer="" src="../js/float.js"></script>
+<script>
+    let widgetMinimized = true;
+    const notification = document.getElementById('ocp-notification');
+
+    function updateNotification() {
+        notification.style.display = widgetMinimized ? 'block' : 'none';
+    }
+
+    document.addEventListener('click', function (e) {
+        if (e.clientX > window.innerWidth - 100 &&
+            e.clientY > window.innerHeight - 100) {
+            widgetMinimized = !widgetMinimized;
+            updateNotification();
+        }
+    });
+
+    updateNotification();
+</script>
+
+
+
+</body></html>

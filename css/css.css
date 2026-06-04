@@ -1,0 +1,30 @@
+/* General Sans */
+@font-face {
+  font-family: 'General Sans';
+  src: url('../fonts/TW4KNQIPR4LNP4I6I6C6HKQ23B2EQAU5.woff2') format('woff2'),
+       url('../fonts/TW4KNQIPR4LNP4I6I6C6HKQ23B2EQAU5.woff') format('woff'),
+       url('../fonts/TW4KNQIPR4LNP4I6I6C6HKQ23B2EQAU5.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'General Sans';
+  src: url('../fonts/SB2OEB6IKZPRR6JT4GFJ2TFT6HBB6AZN.woff2') format('woff2'),
+       url('../fonts/SB2OEB6IKZPRR6JT4GFJ2TFT6HBB6AZN.woff') format('woff'),
+       url('../fonts/SB2OEB6IKZPRR6JT4GFJ2TFT6HBB6AZN.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'General Sans';
+  src: url('../fonts/3ZLMEXZEQPLTEPMHTQDAUXP5ZZXCZAEN.woff2') format('woff2'),
+       url('../fonts/3ZLMEXZEQPLTEPMHTQDAUXP5ZZXCZAEN.woff') format('woff'),
+       url('../fonts/3ZLMEXZEQPLTEPMHTQDAUXP5ZZXCZAEN.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
+
